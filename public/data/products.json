@@ -1,0 +1,4046 @@
+{
+  "products": [
+    {
+      "max_cart_quantity": 1,
+      "allow_multiple_flower_count": false,
+      "store_notes": null,
+      "_geoloc": {
+        "lat": 34.037391,
+        "lng": -118.258393
+      },
+      "aggregate_rating": 0,
+      "allergens": [],
+      "amount": null,
+      "available_weights": [],
+      "brand_subtype": "Black Bottle Tincture",
+      "brand": "Korova",
+      "bucket_price": 50,
+      "business_licenses": [],
+      "cannabinoids": [],
+      "category": null,
+      "description": "A cannabis infused tincture.",
+      "dosage": "1000mg",
+      "effects": [],
+      "flavors": [],
+      "image_urls": [
+        "https://uploads.iheartjane.com/uploads/fceba0e3-397f-44f8-8028-d8dcd2eb2415.jpg"
+      ],
+      "ingredients": [],
+      "kind_subtype": "Black Bottle Tincture",
+      "kind": "tincture",
+      "custom_product_type": "tincture",
+      "name": "Black Bottle - Midnight Guava (1000mg)",
+      "percent_cbd": 0,
+      "percent_cbda": 0,
+      "percent_thc": 0,
+      "percent_thca": 0,
+      "percent_tac": 0,
+      "photos": [
+        {
+          "id": 4406107,
+          "position": 0,
+          "urls": {
+            "original": "https://uploads.iheartjane.com/uploads/fceba0e3-397f-44f8-8028-d8dcd2eb2415.jpg",
+            "small": "https://uploads.iheartjane.com/cdn-cgi/image/width=174,fit=scale-down,format=auto,metadata=none/uploads/fceba0e3-397f-44f8-8028-d8dcd2eb2415.jpg",
+            "medium": "https://uploads.iheartjane.com/cdn-cgi/image/width=327,fit=scale-down,format=auto,metadata=none/uploads/fceba0e3-397f-44f8-8028-d8dcd2eb2415.jpg",
+            "extraLarge": "https://uploads.iheartjane.com/cdn-cgi/image/width=1000,fit=scale-down,format=auto,metadata=none/uploads/fceba0e3-397f-44f8-8028-d8dcd2eb2415.jpg"
+          }
+        }
+      ],
+      "has_photos": true,
+      "has_thc_potency": false,
+      "product_id": 543191,
+      "product_percent_cbd": 0,
+      "product_percent_thc": 0,
+      "product_photos": [],
+      "review_count": 0,
+      "root_subtype": "Sublinguals",
+      "custom_product_subtype": "Sublinguals",
+      "sort_price": 50,
+      "special_amount": null,
+      "special_id": null,
+      "special_title": null,
+      "store_specific_product": false,
+      "store_types": [
+        "recreational"
+      ],
+      "terpenes": [],
+      "type": "tincture",
+      "url_slug": "korova-black-bottle-midnight-guava-1000mg",
+      "inventory_potencies": [
+        {
+          "price_id": "each",
+          "thc_potency": 0,
+          "cbd_potency": 0
+        }
+      ],
+      "operator_store_rank": null,
+      "photo_weights": [],
+      "feelings": [],
+      "activities": [],
+      "root_types": [
+        "tincture",
+        "best_selling",
+        "tincture:Sublinguals"
+      ],
+      "price_gram": null,
+      "discounted_price_gram": null,
+      "price_two_gram": null,
+      "discounted_price_two_gram": null,
+      "price_eighth_ounce": null,
+      "discounted_price_eighth_ounce": null,
+      "price_quarter_ounce": null,
+      "discounted_price_quarter_ounce": null,
+      "price_half_ounce": null,
+      "discounted_price_half_ounce": null,
+      "price_ounce": null,
+      "discounted_price_ounce": null,
+      "price_half_gram": null,
+      "discounted_price_half_gram": null,
+      "price_each": "50.0",
+      "discounted_price_each": null,
+      "applicable_special_ids": [],
+      "objectID": "14690529",
+      "_highlightResult": {
+        "brand_subtype": {
+          "value": "Black Bottle Tincture",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "brand": {
+          "value": "Korova",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "description": {
+          "value": "A cannabis infused tincture.",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name": {
+          "value": "Black Bottle - Midnight Guava (1000mg)",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "root_types": [
+          {
+            "value": "tincture",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "best_selling",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "tincture:Sublinguals",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ]
+      }
+    },
+    {
+      "max_cart_quantity": 16,
+      "allow_multiple_flower_count": true,
+      "store_notes": null,
+      "_geoloc": {
+        "lat": 34.037391,
+        "lng": -118.258393
+      },
+      "aggregate_rating": 0,
+      "allergens": [],
+      "amount": null,
+      "available_weights": [
+        "eighth ounce"
+      ],
+      "brand_subtype": null,
+      "brand": "Korova",
+      "bucket_price": 60,
+      "business_licenses": [],
+      "cannabinoids": [],
+      "category": "hybrid",
+      "description": "No description available. If you have any info on this strain, drop us some knowledge at strains@iheartjane.com",
+      "dosage": null,
+      "effects": [],
+      "flavors": [],
+      "image_urls": [
+        "https://uploads.iheartjane.com/uploads/65045a4d-dea7-4523-86be-550812bf6bac.jpg"
+      ],
+      "ingredients": [],
+      "kind_subtype": null,
+      "kind": "flower",
+      "custom_product_type": "flower",
+      "name": "Blueberry Sherb",
+      "percent_cbd": 0,
+      "percent_cbda": 0,
+      "percent_thc": 37.08,
+      "percent_thca": 0,
+      "percent_tac": 0,
+      "photos": [
+        {
+          "id": 4586141,
+          "position": 0,
+          "urls": {
+            "original": "https://uploads.iheartjane.com/uploads/65045a4d-dea7-4523-86be-550812bf6bac.jpg",
+            "small": "https://uploads.iheartjane.com/cdn-cgi/image/width=174,fit=scale-down,format=auto,metadata=none/uploads/65045a4d-dea7-4523-86be-550812bf6bac.jpg",
+            "medium": "https://uploads.iheartjane.com/cdn-cgi/image/width=327,fit=scale-down,format=auto,metadata=none/uploads/65045a4d-dea7-4523-86be-550812bf6bac.jpg",
+            "extraLarge": "https://uploads.iheartjane.com/cdn-cgi/image/width=1000,fit=scale-down,format=auto,metadata=none/uploads/65045a4d-dea7-4523-86be-550812bf6bac.jpg"
+          }
+        }
+      ],
+      "has_photos": true,
+      "has_thc_potency": true,
+      "product_id": 752893,
+      "product_percent_cbd": 0,
+      "product_percent_thc": 0,
+      "product_photos": [
+        {
+          "id": "https://uploads.iheartjane.com/uploads/24f5579b-104f-4e6e-8c62-c0344608764f.jpg",
+          "position": 0,
+          "urls": {
+            "original": "https://uploads.iheartjane.com/uploads/24f5579b-104f-4e6e-8c62-c0344608764f.jpg",
+            "small": "https://uploads.iheartjane.com/cdn-cgi/image/width=174,fit=scale-down,format=auto,metadata=none/uploads/24f5579b-104f-4e6e-8c62-c0344608764f.jpg",
+            "medium": "https://uploads.iheartjane.com/cdn-cgi/image/width=327,fit=scale-down,format=auto,metadata=none/uploads/24f5579b-104f-4e6e-8c62-c0344608764f.jpg",
+            "extraLarge": "https://uploads.iheartjane.com/cdn-cgi/image/width=1000,fit=scale-down,format=auto,metadata=none/uploads/24f5579b-104f-4e6e-8c62-c0344608764f.jpg"
+          }
+        }
+      ],
+      "review_count": 0,
+      "root_subtype": null,
+      "custom_product_subtype": null,
+      "sort_price": 16.93,
+      "special_amount": null,
+      "special_id": null,
+      "special_title": null,
+      "store_specific_product": false,
+      "store_types": [
+        "recreational"
+      ],
+      "terpenes": [],
+      "type": "hybrid",
+      "url_slug": "korova-blueberry-sherb",
+      "inventory_potencies": [
+        {
+          "price_id": "eighth_ounce",
+          "thc_potency": 37.08,
+          "cbd_potency": 0
+        }
+      ],
+      "operator_store_rank": null,
+      "photo_weights": [],
+      "feelings": [],
+      "activities": [],
+      "root_types": [
+        "flower",
+        "best_selling"
+      ],
+      "price_gram": null,
+      "discounted_price_gram": null,
+      "price_two_gram": null,
+      "discounted_price_two_gram": null,
+      "price_eighth_ounce": "60.0",
+      "discounted_price_eighth_ounce": null,
+      "price_quarter_ounce": null,
+      "discounted_price_quarter_ounce": null,
+      "price_half_ounce": null,
+      "discounted_price_half_ounce": null,
+      "price_ounce": null,
+      "discounted_price_ounce": null,
+      "price_half_gram": null,
+      "discounted_price_half_gram": null,
+      "price_each": null,
+      "discounted_price_each": null,
+      "applicable_special_ids": [],
+      "objectID": "14713639",
+      "_highlightResult": {
+        "brand": {
+          "value": "Korova",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "category": {
+          "value": "hybrid",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "description": {
+          "value": "No description available. If you have any info on this strain, drop us some knowledge at strains@iheartjane.com",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name": {
+          "value": "Blueberry Sherb",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "root_types": [
+          {
+            "value": "flower",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "best_selling",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ]
+      }
+    },
+    {
+      "max_cart_quantity": 2,
+      "allow_multiple_flower_count": true,
+      "store_notes": null,
+      "_geoloc": {
+        "lat": 34.037391,
+        "lng": -118.258393
+      },
+      "aggregate_rating": 0,
+      "allergens": [],
+      "amount": "",
+      "available_weights": [
+        "eighth ounce"
+      ],
+      "brand_subtype": null,
+      "brand": "Korova",
+      "bucket_price": 50,
+      "business_licenses": [],
+      "cannabinoids": [],
+      "category": "sativa",
+      "description": "Jack Herer is a Sativa-Dominant daytime strain named after the late Marijuana Activist. It combines a Haze hybrid with Northern Lights #5 and Shiva Skunk resulting in the sharp, sweet flavor of earthy spice, orange and lemon pepper. Users will experience a head buzz as well as a strong body high leaving the user blissful, creative, energetic and clear-headed.",
+      "dosage": "",
+      "effects": [
+        "alert",
+        "euphoric",
+        "energetic",
+        "daytime",
+        "creativity"
+      ],
+      "flavors": [
+        "pepper",
+        "earth",
+        "sweet"
+      ],
+      "image_urls": [
+        "https://uploads.iheartjane.com/uploads/a2fba681-cd9e-4492-8238-61d3dfbf0651.jpg"
+      ],
+      "ingredients": [],
+      "kind_subtype": null,
+      "kind": "flower",
+      "custom_product_type": "flower",
+      "name": "Jack Herer",
+      "percent_cbd": 0.05,
+      "percent_cbda": 0,
+      "percent_thc": 23.62,
+      "percent_thca": 0,
+      "percent_tac": 0,
+      "photos": [
+        {
+          "id": 4659257,
+          "position": 0,
+          "urls": {
+            "original": "https://uploads.iheartjane.com/uploads/a2fba681-cd9e-4492-8238-61d3dfbf0651.jpg",
+            "small": "https://uploads.iheartjane.com/cdn-cgi/image/width=174,fit=scale-down,format=auto,metadata=none/uploads/a2fba681-cd9e-4492-8238-61d3dfbf0651.jpg",
+            "medium": "https://uploads.iheartjane.com/cdn-cgi/image/width=327,fit=scale-down,format=auto,metadata=none/uploads/a2fba681-cd9e-4492-8238-61d3dfbf0651.jpg",
+            "extraLarge": "https://uploads.iheartjane.com/cdn-cgi/image/width=1000,fit=scale-down,format=auto,metadata=none/uploads/a2fba681-cd9e-4492-8238-61d3dfbf0651.jpg"
+          }
+        }
+      ],
+      "has_photos": true,
+      "has_thc_potency": true,
+      "product_id": 67048,
+      "product_percent_cbd": 0,
+      "product_percent_thc": 20,
+      "product_photos": [
+        {
+          "id": "https://product-assets.iheartjane.com/photos/05/01/0501c37f-16ce-42c2-9165-a34929910918.jpeg",
+          "position": 0,
+          "urls": {
+            "original": "https://product-assets.iheartjane.com/photos/05/01/0501c37f-16ce-42c2-9165-a34929910918.jpeg",
+            "small": "https://product-assets.iheartjane.com/cdn-cgi/image/width=174,fit=scale-down,format=auto,metadata=none/photos/05/01/0501c37f-16ce-42c2-9165-a34929910918.jpeg",
+            "medium": "https://product-assets.iheartjane.com/cdn-cgi/image/width=327,fit=scale-down,format=auto,metadata=none/photos/05/01/0501c37f-16ce-42c2-9165-a34929910918.jpeg",
+            "extraLarge": "https://product-assets.iheartjane.com/cdn-cgi/image/width=1000,fit=scale-down,format=auto,metadata=none/photos/05/01/0501c37f-16ce-42c2-9165-a34929910918.jpeg"
+          }
+        }
+      ],
+      "review_count": 1,
+      "root_subtype": "",
+      "custom_product_subtype": "",
+      "sort_price": 14.11,
+      "special_amount": null,
+      "special_id": null,
+      "special_title": null,
+      "store_specific_product": false,
+      "store_types": [
+        "recreational"
+      ],
+      "terpenes": [],
+      "type": "sativa",
+      "url_slug": "korova-jack-herer",
+      "inventory_potencies": [
+        {
+          "price_id": "eighth_ounce",
+          "thc_potency": 23.62,
+          "cbd_potency": 0.05
+        }
+      ],
+      "operator_store_rank": null,
+      "photo_weights": [],
+      "feelings": [],
+      "activities": [],
+      "root_types": [
+        "flower",
+        "best_selling"
+      ],
+      "price_gram": null,
+      "discounted_price_gram": null,
+      "price_two_gram": null,
+      "discounted_price_two_gram": null,
+      "price_eighth_ounce": "50.0",
+      "discounted_price_eighth_ounce": null,
+      "price_quarter_ounce": null,
+      "discounted_price_quarter_ounce": null,
+      "price_half_ounce": null,
+      "discounted_price_half_ounce": null,
+      "price_ounce": null,
+      "discounted_price_ounce": null,
+      "price_half_gram": null,
+      "discounted_price_half_gram": null,
+      "price_each": null,
+      "discounted_price_each": null,
+      "applicable_special_ids": [],
+      "objectID": "15511075",
+      "_highlightResult": {
+        "brand": {
+          "value": "Korova",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "category": {
+          "value": "sativa",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "description": {
+          "value": "Jack Herer is a Sativa-Dominant daytime strain named after the late Marijuana Activist. It combines a Haze hybrid with Northern Lights #5 and Shiva Skunk resulting in the sharp, sweet flavor of earthy spice, orange and lemon pepper. Users will experience a head buzz as well as a strong body high leaving the user blissful, creative, energetic and clear-headed.",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "effects": [
+          {
+            "value": "alert",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "euphoric",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "energetic",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "daytime",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "creativity",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "flavors": [
+          {
+            "value": "pepper",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "earth",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "sweet",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "name": {
+          "value": "Jack Herer",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "root_types": [
+          {
+            "value": "flower",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "best_selling",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ]
+      }
+    },
+    {
+      "max_cart_quantity": 20,
+      "allow_multiple_flower_count": false,
+      "store_notes": null,
+      "_geoloc": {
+        "lat": 34.037391,
+        "lng": -118.258393
+      },
+      "aggregate_rating": 0,
+      "allergens": [],
+      "amount": null,
+      "available_weights": [
+        "gram"
+      ],
+      "brand_subtype": "Crumble",
+      "brand": "Korova",
+      "bucket_price": 20,
+      "business_licenses": [],
+      "cannabinoids": [],
+      "category": null,
+      "description": "A strain specific cannabis extract by Korova.",
+      "dosage": null,
+      "effects": [],
+      "flavors": [],
+      "image_urls": [
+        "https://uploads.iheartjane.com/uploads/8e4815f7-f711-4bbe-afb3-10c4346ffb31.jpg"
+      ],
+      "ingredients": [],
+      "kind_subtype": "Crumble",
+      "kind": "extract",
+      "custom_product_type": "extract",
+      "name": "Lemon Cream",
+      "percent_cbd": 0.12,
+      "percent_cbda": 0,
+      "percent_thc": 73.15,
+      "percent_thca": 0,
+      "percent_tac": 0,
+      "photos": [
+        {
+          "id": 4585281,
+          "position": 0,
+          "urls": {
+            "original": "https://uploads.iheartjane.com/uploads/8e4815f7-f711-4bbe-afb3-10c4346ffb31.jpg",
+            "small": "https://uploads.iheartjane.com/cdn-cgi/image/width=174,fit=scale-down,format=auto,metadata=none/uploads/8e4815f7-f711-4bbe-afb3-10c4346ffb31.jpg",
+            "medium": "https://uploads.iheartjane.com/cdn-cgi/image/width=327,fit=scale-down,format=auto,metadata=none/uploads/8e4815f7-f711-4bbe-afb3-10c4346ffb31.jpg",
+            "extraLarge": "https://uploads.iheartjane.com/cdn-cgi/image/width=1000,fit=scale-down,format=auto,metadata=none/uploads/8e4815f7-f711-4bbe-afb3-10c4346ffb31.jpg"
+          }
+        }
+      ],
+      "has_photos": true,
+      "has_thc_potency": true,
+      "product_id": 696802,
+      "product_percent_cbd": 0,
+      "product_percent_thc": 0,
+      "product_photos": [
+        {
+          "id": "https://product-assets.iheartjane.com/photos/c8/d7/c8d7f8f6-dd9b-49b4-ad92-c8bc22eb739c.jpeg",
+          "position": 0,
+          "urls": {
+            "original": "https://product-assets.iheartjane.com/photos/c8/d7/c8d7f8f6-dd9b-49b4-ad92-c8bc22eb739c.jpeg",
+            "small": "https://product-assets.iheartjane.com/cdn-cgi/image/width=174,fit=scale-down,format=auto,metadata=none/photos/c8/d7/c8d7f8f6-dd9b-49b4-ad92-c8bc22eb739c.jpeg",
+            "medium": "https://product-assets.iheartjane.com/cdn-cgi/image/width=327,fit=scale-down,format=auto,metadata=none/photos/c8/d7/c8d7f8f6-dd9b-49b4-ad92-c8bc22eb739c.jpeg",
+            "extraLarge": "https://product-assets.iheartjane.com/cdn-cgi/image/width=1000,fit=scale-down,format=auto,metadata=none/photos/c8/d7/c8d7f8f6-dd9b-49b4-ad92-c8bc22eb739c.jpeg"
+          }
+        }
+      ],
+      "review_count": 0,
+      "root_subtype": "Waxes",
+      "custom_product_subtype": "Waxes",
+      "sort_price": 20,
+      "special_amount": null,
+      "special_id": null,
+      "special_title": null,
+      "store_specific_product": false,
+      "store_types": [
+        "recreational"
+      ],
+      "terpenes": [],
+      "type": "extract",
+      "url_slug": "korova-lemon-cream",
+      "inventory_potencies": [
+        {
+          "price_id": "gram",
+          "thc_potency": 73.15,
+          "cbd_potency": 0.12
+        }
+      ],
+      "operator_store_rank": null,
+      "photo_weights": [],
+      "feelings": [],
+      "activities": [],
+      "root_types": [
+        "extract",
+        "best_selling",
+        "extract:Waxes"
+      ],
+      "price_gram": "20.0",
+      "discounted_price_gram": null,
+      "price_two_gram": null,
+      "discounted_price_two_gram": null,
+      "price_eighth_ounce": null,
+      "discounted_price_eighth_ounce": null,
+      "price_quarter_ounce": null,
+      "discounted_price_quarter_ounce": null,
+      "price_half_ounce": null,
+      "discounted_price_half_ounce": null,
+      "price_ounce": null,
+      "discounted_price_ounce": null,
+      "price_half_gram": null,
+      "discounted_price_half_gram": null,
+      "price_each": null,
+      "discounted_price_each": null,
+      "applicable_special_ids": [],
+      "objectID": "14714250",
+      "_highlightResult": {
+        "brand_subtype": {
+          "value": "Crumble",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "brand": {
+          "value": "Korova",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "description": {
+          "value": "A strain specific cannabis extract by Korova.",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name": {
+          "value": "Lemon Cream",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "root_types": [
+          {
+            "value": "extract",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "best_selling",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "extract:Waxes",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ]
+      }
+    },
+    {
+      "max_cart_quantity": 7,
+      "allow_multiple_flower_count": true,
+      "store_notes": null,
+      "_geoloc": {
+        "lat": 34.037391,
+        "lng": -118.258393
+      },
+      "aggregate_rating": 0,
+      "allergens": [],
+      "amount": null,
+      "available_weights": [
+        "eighth ounce",
+        "quarter ounce"
+      ],
+      "brand_subtype": "Unrivaled",
+      "brand": "Korova",
+      "bucket_price": 60,
+      "business_licenses": [],
+      "cannabinoids": [],
+      "category": "hybrid",
+      "description": "No description available. If you have any info on this strain, drop us some knowledge at strains@iheartjane.com",
+      "dosage": null,
+      "effects": [],
+      "flavors": [],
+      "image_urls": [
+        "https://uploads.iheartjane.com/uploads/a119460a-a18b-49b3-a0a4-ad44edacaf1d.jpg"
+      ],
+      "ingredients": [],
+      "kind_subtype": "Unrivaled",
+      "kind": "flower",
+      "custom_product_type": "flower",
+      "name": "Secret Gelato",
+      "percent_cbd": 0.06,
+      "percent_cbda": 0,
+      "percent_thc": 23.75,
+      "percent_thca": 0,
+      "percent_tac": 0,
+      "photos": [
+        {
+          "id": 4659125,
+          "position": 0,
+          "urls": {
+            "original": "https://uploads.iheartjane.com/uploads/a119460a-a18b-49b3-a0a4-ad44edacaf1d.jpg",
+            "small": "https://uploads.iheartjane.com/cdn-cgi/image/width=174,fit=scale-down,format=auto,metadata=none/uploads/a119460a-a18b-49b3-a0a4-ad44edacaf1d.jpg",
+            "medium": "https://uploads.iheartjane.com/cdn-cgi/image/width=327,fit=scale-down,format=auto,metadata=none/uploads/a119460a-a18b-49b3-a0a4-ad44edacaf1d.jpg",
+            "extraLarge": "https://uploads.iheartjane.com/cdn-cgi/image/width=1000,fit=scale-down,format=auto,metadata=none/uploads/a119460a-a18b-49b3-a0a4-ad44edacaf1d.jpg"
+          }
+        }
+      ],
+      "has_photos": true,
+      "has_thc_potency": true,
+      "product_id": 758369,
+      "product_percent_cbd": 0,
+      "product_percent_thc": 0,
+      "product_photos": [
+        {
+          "id": "https://product-assets.iheartjane.com/photos/bd/22/bd22d570-1c31-460e-8d3f-db2e30e967e8.jpeg",
+          "position": 0,
+          "urls": {
+            "original": "https://product-assets.iheartjane.com/photos/bd/22/bd22d570-1c31-460e-8d3f-db2e30e967e8.jpeg",
+            "small": "https://product-assets.iheartjane.com/cdn-cgi/image/width=174,fit=scale-down,format=auto,metadata=none/photos/bd/22/bd22d570-1c31-460e-8d3f-db2e30e967e8.jpeg",
+            "medium": "https://product-assets.iheartjane.com/cdn-cgi/image/width=327,fit=scale-down,format=auto,metadata=none/photos/bd/22/bd22d570-1c31-460e-8d3f-db2e30e967e8.jpeg",
+            "extraLarge": "https://product-assets.iheartjane.com/cdn-cgi/image/width=1000,fit=scale-down,format=auto,metadata=none/photos/bd/22/bd22d570-1c31-460e-8d3f-db2e30e967e8.jpeg"
+          }
+        }
+      ],
+      "review_count": 0,
+      "root_subtype": null,
+      "custom_product_subtype": null,
+      "sort_price": 13.76,
+      "special_amount": null,
+      "special_id": null,
+      "special_title": null,
+      "store_specific_product": false,
+      "store_types": [
+        "recreational"
+      ],
+      "terpenes": [],
+      "type": "hybrid",
+      "url_slug": "korova-secret-gelato",
+      "inventory_potencies": [
+        {
+          "price_id": "eighth_ounce",
+          "thc_potency": 37.08,
+          "cbd_potency": 0
+        },
+        {
+          "price_id": "quarter_ounce",
+          "thc_potency": 23.75,
+          "cbd_potency": 0.06
+        }
+      ],
+      "operator_store_rank": null,
+      "photo_weights": [],
+      "feelings": [],
+      "activities": [],
+      "root_types": [
+        "flower",
+        "best_selling"
+      ],
+      "price_gram": null,
+      "discounted_price_gram": null,
+      "price_two_gram": null,
+      "discounted_price_two_gram": null,
+      "price_eighth_ounce": "60.0",
+      "discounted_price_eighth_ounce": null,
+      "price_quarter_ounce": "75.0",
+      "discounted_price_quarter_ounce": null,
+      "price_half_ounce": null,
+      "discounted_price_half_ounce": null,
+      "price_ounce": null,
+      "discounted_price_ounce": null,
+      "price_half_gram": null,
+      "discounted_price_half_gram": null,
+      "price_each": null,
+      "discounted_price_each": null,
+      "applicable_special_ids": [],
+      "objectID": "14698332",
+      "_highlightResult": {
+        "brand_subtype": {
+          "value": "Unrivaled",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "brand": {
+          "value": "Korova",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "category": {
+          "value": "hybrid",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "description": {
+          "value": "No description available. If you have any info on this strain, drop us some knowledge at strains@iheartjane.com",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name": {
+          "value": "Secret Gelato",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "root_types": [
+          {
+            "value": "flower",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "best_selling",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ]
+      }
+    },
+    {
+      "max_cart_quantity": 14,
+      "allow_multiple_flower_count": false,
+      "store_notes": null,
+      "_geoloc": {
+        "lat": 34.037391,
+        "lng": -118.258393
+      },
+      "aggregate_rating": 0,
+      "allergens": [],
+      "amount": null,
+      "available_weights": [
+        "gram"
+      ],
+      "brand_subtype": "Live Resin Sauce",
+      "brand": "Korova",
+      "bucket_price": 30,
+      "business_licenses": [],
+      "cannabinoids": [],
+      "category": "sativa",
+      "description": "A strain specific cannabis extract by Korova.",
+      "dosage": null,
+      "effects": [],
+      "flavors": [],
+      "image_urls": [
+        "https://uploads.iheartjane.com/uploads/7df0049e-954f-4b4c-9ebc-65b06ff0a94f.jpg"
+      ],
+      "ingredients": [],
+      "kind_subtype": "Live Resin Sauce",
+      "kind": "extract",
+      "custom_product_type": "extract",
+      "name": "Sour Sundae",
+      "percent_cbd": 0.11,
+      "percent_cbda": 0,
+      "percent_thc": 63.64,
+      "percent_thca": 0,
+      "percent_tac": 0,
+      "photos": [
+        {
+          "id": 4670302,
+          "position": 0,
+          "urls": {
+            "original": "https://uploads.iheartjane.com/uploads/7df0049e-954f-4b4c-9ebc-65b06ff0a94f.jpg",
+            "small": "https://uploads.iheartjane.com/cdn-cgi/image/width=174,fit=scale-down,format=auto,metadata=none/uploads/7df0049e-954f-4b4c-9ebc-65b06ff0a94f.jpg",
+            "medium": "https://uploads.iheartjane.com/cdn-cgi/image/width=327,fit=scale-down,format=auto,metadata=none/uploads/7df0049e-954f-4b4c-9ebc-65b06ff0a94f.jpg",
+            "extraLarge": "https://uploads.iheartjane.com/cdn-cgi/image/width=1000,fit=scale-down,format=auto,metadata=none/uploads/7df0049e-954f-4b4c-9ebc-65b06ff0a94f.jpg"
+          }
+        }
+      ],
+      "has_photos": true,
+      "has_thc_potency": true,
+      "product_id": 649520,
+      "product_percent_cbd": 0,
+      "product_percent_thc": 0,
+      "product_photos": [
+        {
+          "id": "https://product-assets.iheartjane.com/photos/27/92/2792b44e-399a-4a3f-80e8-8a24df94f172.jpeg",
+          "position": 0,
+          "urls": {
+            "original": "https://product-assets.iheartjane.com/photos/27/92/2792b44e-399a-4a3f-80e8-8a24df94f172.jpeg",
+            "small": "https://product-assets.iheartjane.com/cdn-cgi/image/width=174,fit=scale-down,format=auto,metadata=none/photos/27/92/2792b44e-399a-4a3f-80e8-8a24df94f172.jpeg",
+            "medium": "https://product-assets.iheartjane.com/cdn-cgi/image/width=327,fit=scale-down,format=auto,metadata=none/photos/27/92/2792b44e-399a-4a3f-80e8-8a24df94f172.jpeg",
+            "extraLarge": "https://product-assets.iheartjane.com/cdn-cgi/image/width=1000,fit=scale-down,format=auto,metadata=none/photos/27/92/2792b44e-399a-4a3f-80e8-8a24df94f172.jpeg"
+          }
+        }
+      ],
+      "review_count": 0,
+      "root_subtype": "Live Resins",
+      "custom_product_subtype": "Live Resins",
+      "sort_price": 30,
+      "special_amount": null,
+      "special_id": null,
+      "special_title": null,
+      "store_specific_product": false,
+      "store_types": [
+        "recreational"
+      ],
+      "terpenes": [],
+      "type": "extract",
+      "url_slug": "korova-sour-sundae",
+      "inventory_potencies": [
+        {
+          "price_id": "gram",
+          "thc_potency": 63.64,
+          "cbd_potency": 0.11
+        }
+      ],
+      "operator_store_rank": null,
+      "photo_weights": [],
+      "feelings": [],
+      "activities": [],
+      "root_types": [
+        "extract",
+        "best_selling",
+        "extract:Live Resins"
+      ],
+      "price_gram": "30.0",
+      "discounted_price_gram": null,
+      "price_two_gram": null,
+      "discounted_price_two_gram": null,
+      "price_eighth_ounce": null,
+      "discounted_price_eighth_ounce": null,
+      "price_quarter_ounce": null,
+      "discounted_price_quarter_ounce": null,
+      "price_half_ounce": null,
+      "discounted_price_half_ounce": null,
+      "price_ounce": null,
+      "discounted_price_ounce": null,
+      "price_half_gram": null,
+      "discounted_price_half_gram": null,
+      "price_each": null,
+      "discounted_price_each": null,
+      "applicable_special_ids": [],
+      "objectID": "14690533",
+      "_highlightResult": {
+        "brand_subtype": {
+          "value": "Live Resin Sauce",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "brand": {
+          "value": "Korova",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "category": {
+          "value": "sativa",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "description": {
+          "value": "A strain specific cannabis extract by Korova.",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name": {
+          "value": "Sour Sundae",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "root_types": [
+          {
+            "value": "extract",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "best_selling",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "extract:Live Resins",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ]
+      }
+    },
+    {
+      "max_cart_quantity": 1,
+      "allow_multiple_flower_count": false,
+      "store_notes": null,
+      "_geoloc": {
+        "lat": 34.037391,
+        "lng": -118.258393
+      },
+      "aggregate_rating": 0,
+      "allergens": [],
+      "amount": "4pk",
+      "available_weights": [],
+      "brand_subtype": null,
+      "brand": "Cabana",
+      "bucket_price": 25,
+      "business_licenses": [],
+      "cannabinoids": [],
+      "category": null,
+      "description": "A strain specific four (4) pack pre roll by Cabana.\n\n",
+      "dosage": null,
+      "effects": [],
+      "flavors": [],
+      "image_urls": [
+        "https://uploads.iheartjane.com/uploads/eb693933-3fd5-4b81-b3ab-3c15a8aa3f19.jpg"
+      ],
+      "ingredients": [],
+      "kind_subtype": null,
+      "kind": "pre-roll",
+      "custom_product_type": "pre-roll",
+      "name": "Banana Kush [4pk]",
+      "percent_cbd": 0.09,
+      "percent_cbda": 0,
+      "percent_thc": 27.77,
+      "percent_thca": 0,
+      "percent_tac": 0,
+      "photos": [
+        {
+          "id": 4586245,
+          "position": 0,
+          "urls": {
+            "original": "https://uploads.iheartjane.com/uploads/eb693933-3fd5-4b81-b3ab-3c15a8aa3f19.jpg",
+            "small": "https://uploads.iheartjane.com/cdn-cgi/image/width=174,fit=scale-down,format=auto,metadata=none/uploads/eb693933-3fd5-4b81-b3ab-3c15a8aa3f19.jpg",
+            "medium": "https://uploads.iheartjane.com/cdn-cgi/image/width=327,fit=scale-down,format=auto,metadata=none/uploads/eb693933-3fd5-4b81-b3ab-3c15a8aa3f19.jpg",
+            "extraLarge": "https://uploads.iheartjane.com/cdn-cgi/image/width=1000,fit=scale-down,format=auto,metadata=none/uploads/eb693933-3fd5-4b81-b3ab-3c15a8aa3f19.jpg"
+          }
+        }
+      ],
+      "has_photos": true,
+      "has_thc_potency": true,
+      "product_id": 536794,
+      "product_percent_cbd": 0,
+      "product_percent_thc": 0,
+      "product_photos": [
+        {
+          "id": "https://uploads.iheartjane.com/uploads/a1560857-ff4f-4ed7-a91a-b0b6adee320c.jpg",
+          "position": 0,
+          "urls": {
+            "original": "https://uploads.iheartjane.com/uploads/a1560857-ff4f-4ed7-a91a-b0b6adee320c.jpg",
+            "small": "https://uploads.iheartjane.com/cdn-cgi/image/width=174,fit=scale-down,format=auto,metadata=none/uploads/a1560857-ff4f-4ed7-a91a-b0b6adee320c.jpg",
+            "medium": "https://uploads.iheartjane.com/cdn-cgi/image/width=327,fit=scale-down,format=auto,metadata=none/uploads/a1560857-ff4f-4ed7-a91a-b0b6adee320c.jpg",
+            "extraLarge": "https://uploads.iheartjane.com/cdn-cgi/image/width=1000,fit=scale-down,format=auto,metadata=none/uploads/a1560857-ff4f-4ed7-a91a-b0b6adee320c.jpg"
+          }
+        }
+      ],
+      "review_count": 0,
+      "root_subtype": "Pre Roll Packs",
+      "custom_product_subtype": "Pre Roll Packs",
+      "sort_price": 25,
+      "special_amount": null,
+      "special_id": null,
+      "special_title": null,
+      "store_specific_product": false,
+      "store_types": [
+        "recreational"
+      ],
+      "terpenes": [],
+      "type": "pre-roll",
+      "url_slug": "cabana-banana-kush-4pk",
+      "inventory_potencies": [
+        {
+          "price_id": "each",
+          "thc_potency": 27.77,
+          "cbd_potency": 0.09
+        }
+      ],
+      "operator_store_rank": null,
+      "photo_weights": [],
+      "feelings": [],
+      "activities": [],
+      "root_types": [
+        "pre-roll",
+        "best_selling",
+        "pre-roll:Pre Roll Packs"
+      ],
+      "price_gram": null,
+      "discounted_price_gram": null,
+      "price_two_gram": null,
+      "discounted_price_two_gram": null,
+      "price_eighth_ounce": null,
+      "discounted_price_eighth_ounce": null,
+      "price_quarter_ounce": null,
+      "discounted_price_quarter_ounce": null,
+      "price_half_ounce": null,
+      "discounted_price_half_ounce": null,
+      "price_ounce": null,
+      "discounted_price_ounce": null,
+      "price_half_gram": null,
+      "discounted_price_half_gram": null,
+      "price_each": "25.0",
+      "discounted_price_each": null,
+      "applicable_special_ids": [],
+      "objectID": "14690509",
+      "_highlightResult": {
+        "brand": {
+          "value": "Cabana",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "description": {
+          "value": "A strain specific four (4) pack pre roll by Cabana.\n\n",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name": {
+          "value": "Banana Kush [4pk]",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "root_types": [
+          {
+            "value": "pre-roll",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "best_selling",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "pre-roll:Pre Roll Packs",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ]
+      }
+    },
+    {
+      "max_cart_quantity": 20,
+      "allow_multiple_flower_count": true,
+      "store_notes": null,
+      "_geoloc": {
+        "lat": 34.037391,
+        "lng": -118.258393
+      },
+      "aggregate_rating": 0,
+      "allergens": [],
+      "amount": null,
+      "available_weights": [
+        "eighth ounce"
+      ],
+      "brand_subtype": null,
+      "brand": "Cabana",
+      "bucket_price": 30,
+      "business_licenses": [],
+      "cannabinoids": [],
+      "category": "hybrid",
+      "description": "No description available. If you have any info on this strain, drop us some knowledge at strains@iheartjane.com",
+      "dosage": null,
+      "effects": [],
+      "flavors": [],
+      "image_urls": [
+        "https://uploads.iheartjane.com/uploads/21f45362-3e41-4394-8868-0d13a4f5f502.jpg"
+      ],
+      "ingredients": [],
+      "kind_subtype": null,
+      "kind": "flower",
+      "custom_product_type": "flower",
+      "name": "Green Dream",
+      "percent_cbd": 0.13,
+      "percent_cbda": 0,
+      "percent_thc": 20.93,
+      "percent_thca": 0,
+      "percent_tac": 0,
+      "photos": [
+        {
+          "id": 4407523,
+          "position": 0,
+          "urls": {
+            "original": "https://uploads.iheartjane.com/uploads/21f45362-3e41-4394-8868-0d13a4f5f502.jpg",
+            "small": "https://uploads.iheartjane.com/cdn-cgi/image/width=174,fit=scale-down,format=auto,metadata=none/uploads/21f45362-3e41-4394-8868-0d13a4f5f502.jpg",
+            "medium": "https://uploads.iheartjane.com/cdn-cgi/image/width=327,fit=scale-down,format=auto,metadata=none/uploads/21f45362-3e41-4394-8868-0d13a4f5f502.jpg",
+            "extraLarge": "https://uploads.iheartjane.com/cdn-cgi/image/width=1000,fit=scale-down,format=auto,metadata=none/uploads/21f45362-3e41-4394-8868-0d13a4f5f502.jpg"
+          }
+        }
+      ],
+      "has_photos": true,
+      "has_thc_potency": true,
+      "product_id": 661629,
+      "product_percent_cbd": 0,
+      "product_percent_thc": 0,
+      "product_photos": [],
+      "review_count": 0,
+      "root_subtype": null,
+      "custom_product_subtype": null,
+      "sort_price": 8.47,
+      "special_amount": null,
+      "special_id": null,
+      "special_title": null,
+      "store_specific_product": false,
+      "store_types": [
+        "recreational"
+      ],
+      "terpenes": [],
+      "type": "hybrid",
+      "url_slug": "cabana-green-dream",
+      "inventory_potencies": [
+        {
+          "price_id": "eighth_ounce",
+          "thc_potency": 20.93,
+          "cbd_potency": 0.13
+        }
+      ],
+      "operator_store_rank": null,
+      "photo_weights": [],
+      "feelings": [],
+      "activities": [],
+      "root_types": [
+        "flower",
+        "best_selling"
+      ],
+      "price_gram": null,
+      "discounted_price_gram": null,
+      "price_two_gram": null,
+      "discounted_price_two_gram": null,
+      "price_eighth_ounce": "30.0",
+      "discounted_price_eighth_ounce": null,
+      "price_quarter_ounce": null,
+      "discounted_price_quarter_ounce": null,
+      "price_half_ounce": null,
+      "discounted_price_half_ounce": null,
+      "price_ounce": null,
+      "discounted_price_ounce": null,
+      "price_half_gram": null,
+      "discounted_price_half_gram": null,
+      "price_each": null,
+      "discounted_price_each": null,
+      "applicable_special_ids": [],
+      "objectID": "14698249",
+      "_highlightResult": {
+        "brand": {
+          "value": "Cabana",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "category": {
+          "value": "hybrid",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "description": {
+          "value": "No description available. If you have any info on this strain, drop us some knowledge at strains@iheartjane.com",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name": {
+          "value": "Green Dream",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "root_types": [
+          {
+            "value": "flower",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "best_selling",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ]
+      }
+    },
+    {
+      "max_cart_quantity": 20,
+      "allow_multiple_flower_count": true,
+      "store_notes": null,
+      "_geoloc": {
+        "lat": 34.037391,
+        "lng": -118.258393
+      },
+      "aggregate_rating": 4.4,
+      "allergens": [],
+      "amount": null,
+      "available_weights": [
+        "eighth ounce"
+      ],
+      "brand_subtype": null,
+      "brand": "CBX Cannabiotix",
+      "bucket_price": 65,
+      "business_licenses": [],
+      "cannabinoids": [],
+      "category": "indica",
+      "description": "Type: Indica\r\nTHC: 25 - 29%\r\nEffects: Relaxing, Joyful, Tranquility\r\n--\r\nTHIS KNOCKOUT WEST COAST CANNABIS VARIETY PRODUCES SPARKLING GOLF BALL STYLE NUGGETS THAT PACK A PUNGENT LEMON FUEL-LIKE TASTE. THIS TOP-LEVEL OG KUSH HAS RACKED QUITE A FEW ACCOLADES AS IT WAS AWARDED 1ST PLACE BEST INDICA FLOWER IN BOTH THE 2013 HIGH TIMES AMSTERDAM CANNABIS CUP AND 2015 HIGH TIMES JAMAICA WORLD CUP AND DEEMED ONE OF HIGH TIMES TOP 10 STRAINS OF 2014. THIS INDICA’S ABILITY TO RELIEVE TENSION WITH POWERFUL WAVES OF EUPHORIC, RELAXED ENERGY AND AMPLIFIED SENSES MAKE IT A GREAT STRAIN FOR PATIENTS SUFFERING FROM CHRONIC PAIN, ANXIETY, OR INSOMNIA.",
+      "dosage": null,
+      "effects": [],
+      "flavors": [],
+      "image_urls": [
+        "https://uploads.iheartjane.com/uploads/b8109edb-88f7-45ff-92a4-99e7ff0ef005.jpg"
+      ],
+      "ingredients": [],
+      "kind_subtype": null,
+      "kind": "flower",
+      "custom_product_type": "flower",
+      "name": "White Walker OG",
+      "percent_cbd": 0.09,
+      "percent_cbda": 0,
+      "percent_thc": 28.17,
+      "percent_thca": 0,
+      "percent_tac": 0,
+      "photos": [
+        {
+          "id": 4667537,
+          "position": 0,
+          "urls": {
+            "original": "https://uploads.iheartjane.com/uploads/b8109edb-88f7-45ff-92a4-99e7ff0ef005.jpg",
+            "small": "https://uploads.iheartjane.com/cdn-cgi/image/width=174,fit=scale-down,format=auto,metadata=none/uploads/b8109edb-88f7-45ff-92a4-99e7ff0ef005.jpg",
+            "medium": "https://uploads.iheartjane.com/cdn-cgi/image/width=327,fit=scale-down,format=auto,metadata=none/uploads/b8109edb-88f7-45ff-92a4-99e7ff0ef005.jpg",
+            "extraLarge": "https://uploads.iheartjane.com/cdn-cgi/image/width=1000,fit=scale-down,format=auto,metadata=none/uploads/b8109edb-88f7-45ff-92a4-99e7ff0ef005.jpg"
+          }
+        }
+      ],
+      "has_photos": true,
+      "has_thc_potency": true,
+      "product_id": 34662,
+      "product_percent_cbd": 0,
+      "product_percent_thc": 0,
+      "product_photos": [
+        {
+          "id": "https://product-assets.iheartjane.com/photos/35/7b/357b0544-6c8a-4ab5-a7aa-1fcb289c3fdb.jpeg",
+          "position": 0,
+          "urls": {
+            "original": "https://product-assets.iheartjane.com/photos/35/7b/357b0544-6c8a-4ab5-a7aa-1fcb289c3fdb.jpeg",
+            "small": "https://product-assets.iheartjane.com/cdn-cgi/image/width=174,fit=scale-down,format=auto,metadata=none/photos/35/7b/357b0544-6c8a-4ab5-a7aa-1fcb289c3fdb.jpeg",
+            "medium": "https://product-assets.iheartjane.com/cdn-cgi/image/width=327,fit=scale-down,format=auto,metadata=none/photos/35/7b/357b0544-6c8a-4ab5-a7aa-1fcb289c3fdb.jpeg",
+            "extraLarge": "https://product-assets.iheartjane.com/cdn-cgi/image/width=1000,fit=scale-down,format=auto,metadata=none/photos/35/7b/357b0544-6c8a-4ab5-a7aa-1fcb289c3fdb.jpeg"
+          }
+        }
+      ],
+      "review_count": 80,
+      "root_subtype": null,
+      "custom_product_subtype": null,
+      "sort_price": 18.34,
+      "special_amount": null,
+      "special_id": null,
+      "special_title": null,
+      "store_specific_product": false,
+      "store_types": [
+        "recreational"
+      ],
+      "terpenes": [],
+      "type": "indica",
+      "url_slug": "cbx-cannabiotix-white-walker-og",
+      "inventory_potencies": [
+        {
+          "price_id": "eighth_ounce",
+          "thc_potency": 28.17,
+          "cbd_potency": 0.09
+        }
+      ],
+      "operator_store_rank": null,
+      "photo_weights": [],
+      "feelings": [
+        "Relaxed",
+        "Blissful",
+        "Pain free"
+      ],
+      "activities": [
+        "Ease my mind",
+        "Get some sleep",
+        "Get relief"
+      ],
+      "root_types": [
+        "flower",
+        "best_selling"
+      ],
+      "price_gram": null,
+      "discounted_price_gram": null,
+      "price_two_gram": null,
+      "discounted_price_two_gram": null,
+      "price_eighth_ounce": "65.0",
+      "discounted_price_eighth_ounce": null,
+      "price_quarter_ounce": null,
+      "discounted_price_quarter_ounce": null,
+      "price_half_ounce": null,
+      "discounted_price_half_ounce": null,
+      "price_ounce": null,
+      "discounted_price_ounce": null,
+      "price_half_gram": null,
+      "discounted_price_half_gram": null,
+      "price_each": null,
+      "discounted_price_each": null,
+      "applicable_special_ids": [],
+      "objectID": "15531945",
+      "_highlightResult": {
+        "brand": {
+          "value": "CBX Cannabiotix",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "category": {
+          "value": "indica",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "description": {
+          "value": "Type: Indica\r\nTHC: 25 - 29%\r\nEffects: Relaxing, Joyful, Tranquility\r\n--\r\nTHIS KNOCKOUT WEST COAST CANNABIS VARIETY PRODUCES SPARKLING GOLF BALL STYLE NUGGETS THAT PACK A PUNGENT LEMON FUEL-LIKE TASTE. THIS TOP-LEVEL OG KUSH HAS RACKED QUITE A FEW ACCOLADES AS IT WAS AWARDED 1ST PLACE BEST INDICA FLOWER IN BOTH THE 2013 HIGH TIMES AMSTERDAM CANNABIS CUP AND 2015 HIGH TIMES JAMAICA WORLD CUP AND DEEMED ONE OF HIGH TIMES TOP 10 STRAINS OF 2014. THIS INDICA’S ABILITY TO RELIEVE TENSION WITH POWERFUL WAVES OF EUPHORIC, RELAXED ENERGY AND AMPLIFIED SENSES MAKE IT A GREAT STRAIN FOR PATIENTS SUFFERING FROM CHRONIC PAIN, ANXIETY, OR INSOMNIA.",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name": {
+          "value": "White Walker OG",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "root_types": [
+          {
+            "value": "flower",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "best_selling",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ]
+      }
+    },
+    {
+      "max_cart_quantity": 8,
+      "allow_multiple_flower_count": false,
+      "store_notes": null,
+      "_geoloc": {
+        "lat": 34.037391,
+        "lng": -118.258393
+      },
+      "aggregate_rating": 4.7,
+      "allergens": [],
+      "amount": "",
+      "available_weights": [
+        "gram"
+      ],
+      "brand_subtype": "High Potency Cartridge",
+      "brand": "Heavy Hitters",
+      "bucket_price": 40,
+      "business_licenses": [
+        {
+          "id": 10,
+          "license_number": "CDPH-10001352",
+          "business_name": "Fluids Manufacturing INC",
+          "company_id": 26,
+          "state": "CA",
+          "created_at": "2020-04-30T18:48:48.603Z",
+          "updated_at": "2020-04-30T18:48:48.603Z"
+        }
+      ],
+      "cannabinoids": [],
+      "category": "sativa",
+      "description": "Ultra pure, ultra potent.\nHeavy Hitters is made with 100% cannabis native terpenes and contains up to 95% THC.\n\n\nHeavy Hitters' Blue Dream is a hybrid with floral notes, finished with a cerebral, full-body high.\n\nStrain Type: Hybrid\n\nTaste Like: Blueberry, Sweet, Pine\n\nFeels Like: Cerebral, full body high\n\nGood For: Pre games, late night hangouts, spa days\n\nLineage: Blueberry Crossed With Haze\n\nEffect category: Aroused, Creative, Euphoric",
+      "dosage": "",
+      "effects": [],
+      "flavors": [],
+      "image_urls": [
+        "https://uploads.iheartjane.com/uploads/0fca3389-b801-48ff-b256-2e32d0b55f3d.jpg"
+      ],
+      "ingredients": [],
+      "kind_subtype": "High Potency Cartridge",
+      "kind": "vape",
+      "custom_product_type": "vape",
+      "name": "Blue Dream",
+      "percent_cbd": 0,
+      "percent_cbda": 0,
+      "percent_thc": 0,
+      "percent_thca": 0,
+      "percent_tac": 0,
+      "photos": [
+        {
+          "id": 4639103,
+          "position": 0,
+          "urls": {
+            "original": "https://uploads.iheartjane.com/uploads/0fca3389-b801-48ff-b256-2e32d0b55f3d.jpg",
+            "small": "https://uploads.iheartjane.com/cdn-cgi/image/width=174,fit=scale-down,format=auto,metadata=none/uploads/0fca3389-b801-48ff-b256-2e32d0b55f3d.jpg",
+            "medium": "https://uploads.iheartjane.com/cdn-cgi/image/width=327,fit=scale-down,format=auto,metadata=none/uploads/0fca3389-b801-48ff-b256-2e32d0b55f3d.jpg",
+            "extraLarge": "https://uploads.iheartjane.com/cdn-cgi/image/width=1000,fit=scale-down,format=auto,metadata=none/uploads/0fca3389-b801-48ff-b256-2e32d0b55f3d.jpg"
+          }
+        }
+      ],
+      "has_photos": true,
+      "has_thc_potency": false,
+      "product_id": 13653,
+      "product_percent_cbd": 0,
+      "product_percent_thc": 0,
+      "product_photos": [
+        {
+          "id": "https://product-assets.iheartjane.com/photos/76/a5/76a55c21-423f-4836-9974-5489094d56f2.jpeg",
+          "position": 0,
+          "urls": {
+            "original": "https://product-assets.iheartjane.com/photos/76/a5/76a55c21-423f-4836-9974-5489094d56f2.jpeg",
+            "small": "https://product-assets.iheartjane.com/cdn-cgi/image/width=174,fit=scale-down,format=auto,metadata=none/photos/76/a5/76a55c21-423f-4836-9974-5489094d56f2.jpeg",
+            "medium": "https://product-assets.iheartjane.com/cdn-cgi/image/width=327,fit=scale-down,format=auto,metadata=none/photos/76/a5/76a55c21-423f-4836-9974-5489094d56f2.jpeg",
+            "extraLarge": "https://product-assets.iheartjane.com/cdn-cgi/image/width=1000,fit=scale-down,format=auto,metadata=none/photos/76/a5/76a55c21-423f-4836-9974-5489094d56f2.jpeg"
+          }
+        },
+        {
+          "id": "https://product-assets.iheartjane.com/photos/d5/b9/d5b9c6ff-5026-498f-bb84-ae27a04cda8c.jpeg",
+          "position": 1,
+          "urls": {
+            "original": "https://product-assets.iheartjane.com/photos/d5/b9/d5b9c6ff-5026-498f-bb84-ae27a04cda8c.jpeg",
+            "small": "https://product-assets.iheartjane.com/cdn-cgi/image/width=174,fit=scale-down,format=auto,metadata=none/photos/d5/b9/d5b9c6ff-5026-498f-bb84-ae27a04cda8c.jpeg",
+            "medium": "https://product-assets.iheartjane.com/cdn-cgi/image/width=327,fit=scale-down,format=auto,metadata=none/photos/d5/b9/d5b9c6ff-5026-498f-bb84-ae27a04cda8c.jpeg",
+            "extraLarge": "https://product-assets.iheartjane.com/cdn-cgi/image/width=1000,fit=scale-down,format=auto,metadata=none/photos/d5/b9/d5b9c6ff-5026-498f-bb84-ae27a04cda8c.jpeg"
+          }
+        },
+        {
+          "id": "https://product-assets.iheartjane.com/photos/92/6e/926eab96-2e2b-4d49-bad1-a1d6da155af9.jpeg",
+          "position": 2,
+          "urls": {
+            "original": "https://product-assets.iheartjane.com/photos/92/6e/926eab96-2e2b-4d49-bad1-a1d6da155af9.jpeg",
+            "small": "https://product-assets.iheartjane.com/cdn-cgi/image/width=174,fit=scale-down,format=auto,metadata=none/photos/92/6e/926eab96-2e2b-4d49-bad1-a1d6da155af9.jpeg",
+            "medium": "https://product-assets.iheartjane.com/cdn-cgi/image/width=327,fit=scale-down,format=auto,metadata=none/photos/92/6e/926eab96-2e2b-4d49-bad1-a1d6da155af9.jpeg",
+            "extraLarge": "https://product-assets.iheartjane.com/cdn-cgi/image/width=1000,fit=scale-down,format=auto,metadata=none/photos/92/6e/926eab96-2e2b-4d49-bad1-a1d6da155af9.jpeg"
+          }
+        },
+        {
+          "id": "https://product-assets.iheartjane.com/photos/95/57/95576883-ad2f-40eb-8f9f-765d155ab2d0.jpeg",
+          "position": 3,
+          "urls": {
+            "original": "https://product-assets.iheartjane.com/photos/95/57/95576883-ad2f-40eb-8f9f-765d155ab2d0.jpeg",
+            "small": "https://product-assets.iheartjane.com/cdn-cgi/image/width=174,fit=scale-down,format=auto,metadata=none/photos/95/57/95576883-ad2f-40eb-8f9f-765d155ab2d0.jpeg",
+            "medium": "https://product-assets.iheartjane.com/cdn-cgi/image/width=327,fit=scale-down,format=auto,metadata=none/photos/95/57/95576883-ad2f-40eb-8f9f-765d155ab2d0.jpeg",
+            "extraLarge": "https://product-assets.iheartjane.com/cdn-cgi/image/width=1000,fit=scale-down,format=auto,metadata=none/photos/95/57/95576883-ad2f-40eb-8f9f-765d155ab2d0.jpeg"
+          }
+        }
+      ],
+      "review_count": 64,
+      "root_subtype": "Cartridges",
+      "custom_product_subtype": "Cartridges",
+      "sort_price": 40,
+      "special_amount": null,
+      "special_id": null,
+      "special_title": null,
+      "store_specific_product": false,
+      "store_types": [
+        "recreational"
+      ],
+      "terpenes": [],
+      "type": "vape",
+      "url_slug": "heavy-hitters-blue-dream",
+      "inventory_potencies": [
+        {
+          "price_id": "gram",
+          "thc_potency": 0,
+          "cbd_potency": 0
+        }
+      ],
+      "operator_store_rank": null,
+      "photo_weights": [],
+      "feelings": [
+        "Relaxed",
+        "Blissful",
+        "Creative",
+        "Energetic"
+      ],
+      "activities": [
+        "Ease my mind",
+        "Stimulate my mind",
+        "Hang with friends",
+        "Get relief",
+        "Get Active"
+      ],
+      "root_types": [
+        "vape",
+        "best_selling",
+        "vape:Cartridges"
+      ],
+      "price_gram": "40.0",
+      "discounted_price_gram": null,
+      "price_two_gram": null,
+      "discounted_price_two_gram": null,
+      "price_eighth_ounce": null,
+      "discounted_price_eighth_ounce": null,
+      "price_quarter_ounce": null,
+      "discounted_price_quarter_ounce": null,
+      "price_half_ounce": null,
+      "discounted_price_half_ounce": null,
+      "price_ounce": null,
+      "discounted_price_ounce": null,
+      "price_half_gram": null,
+      "discounted_price_half_gram": null,
+      "price_each": null,
+      "discounted_price_each": null,
+      "applicable_special_ids": [],
+      "objectID": "14792500",
+      "_highlightResult": {
+        "brand_subtype": {
+          "value": "High Potency Cartridge",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "brand": {
+          "value": "Heavy Hitters",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "category": {
+          "value": "sativa",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "description": {
+          "value": "Ultra pure, ultra potent.\nHeavy Hitters is made with 100% cannabis native terpenes and contains up to 95% THC.\n\n\nHeavy Hitters' Blue Dream is a hybrid with floral notes, finished with a cerebral, full-body high.\n\nStrain Type: Hybrid\n\nTaste Like: Blueberry, Sweet, Pine\n\nFeels Like: Cerebral, full body high\n\nGood For: Pre games, late night hangouts, spa days\n\nLineage: Blueberry Crossed With Haze\n\nEffect category: Aroused, Creative, Euphoric",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name": {
+          "value": "Blue Dream",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "root_types": [
+          {
+            "value": "vape",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "best_selling",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "vape:Cartridges",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ]
+      }
+    },
+    {
+      "max_cart_quantity": 20,
+      "allow_multiple_flower_count": false,
+      "store_notes": null,
+      "_geoloc": {
+        "lat": 34.037391,
+        "lng": -118.258393
+      },
+      "aggregate_rating": 0,
+      "allergens": [],
+      "amount": null,
+      "available_weights": [
+        "half gram"
+      ],
+      "brand_subtype": "Live Resin",
+      "brand": "Humboldt Farms",
+      "bucket_price": 35,
+      "business_licenses": [],
+      "cannabinoids": [],
+      "category": null,
+      "description": "We view the process of creating our premium live resin as a true art form. Cannabis is frozen immediately after harvest, preserving the cannabinoids before they degrade. The flavor and aroma of the final product is unmatched, as are the effects.\r\n\r\n",
+      "dosage": null,
+      "effects": [],
+      "flavors": [],
+      "image_urls": [
+        "https://uploads.iheartjane.com/uploads/62e70ea2-f12e-4f4f-b635-80a920acc12d.jpg"
+      ],
+      "ingredients": [],
+      "kind_subtype": "Live Resin",
+      "kind": "extract",
+      "custom_product_type": "extract",
+      "name": "Guava",
+      "percent_cbd": 0,
+      "percent_cbda": 0,
+      "percent_thc": 80.7,
+      "percent_thca": 0,
+      "percent_tac": 0,
+      "photos": [
+        {
+          "id": 4556627,
+          "position": 0,
+          "urls": {
+            "original": "https://uploads.iheartjane.com/uploads/62e70ea2-f12e-4f4f-b635-80a920acc12d.jpg",
+            "small": "https://uploads.iheartjane.com/cdn-cgi/image/width=174,fit=scale-down,format=auto,metadata=none/uploads/62e70ea2-f12e-4f4f-b635-80a920acc12d.jpg",
+            "medium": "https://uploads.iheartjane.com/cdn-cgi/image/width=327,fit=scale-down,format=auto,metadata=none/uploads/62e70ea2-f12e-4f4f-b635-80a920acc12d.jpg",
+            "extraLarge": "https://uploads.iheartjane.com/cdn-cgi/image/width=1000,fit=scale-down,format=auto,metadata=none/uploads/62e70ea2-f12e-4f4f-b635-80a920acc12d.jpg"
+          }
+        }
+      ],
+      "has_photos": true,
+      "has_thc_potency": true,
+      "product_id": 827233,
+      "product_percent_cbd": 0,
+      "product_percent_thc": 0,
+      "product_photos": [
+        {
+          "id": "https://uploads.iheartjane.com/uploads/b4f979da-c15a-4f6e-b9f1-0d59a154efaa.jpeg",
+          "position": 0,
+          "urls": {
+            "original": "https://uploads.iheartjane.com/uploads/b4f979da-c15a-4f6e-b9f1-0d59a154efaa.jpeg",
+            "small": "https://uploads.iheartjane.com/cdn-cgi/image/width=174,fit=scale-down,format=auto,metadata=none/uploads/b4f979da-c15a-4f6e-b9f1-0d59a154efaa.jpeg",
+            "medium": "https://uploads.iheartjane.com/cdn-cgi/image/width=327,fit=scale-down,format=auto,metadata=none/uploads/b4f979da-c15a-4f6e-b9f1-0d59a154efaa.jpeg",
+            "extraLarge": "https://uploads.iheartjane.com/cdn-cgi/image/width=1000,fit=scale-down,format=auto,metadata=none/uploads/b4f979da-c15a-4f6e-b9f1-0d59a154efaa.jpeg"
+          }
+        }
+      ],
+      "review_count": 0,
+      "root_subtype": "Live Resins",
+      "custom_product_subtype": "Live Resins",
+      "sort_price": 70,
+      "special_amount": null,
+      "special_id": null,
+      "special_title": null,
+      "store_specific_product": false,
+      "store_types": [
+        "recreational"
+      ],
+      "terpenes": [],
+      "type": "extract",
+      "url_slug": "humboldt-farms-guava",
+      "inventory_potencies": [
+        {
+          "price_id": "half_gram",
+          "thc_potency": 80.7,
+          "cbd_potency": 0
+        }
+      ],
+      "operator_store_rank": null,
+      "photo_weights": [],
+      "feelings": [],
+      "activities": [],
+      "root_types": [
+        "extract",
+        "best_selling",
+        "extract:Live Resins"
+      ],
+      "price_gram": null,
+      "discounted_price_gram": null,
+      "price_two_gram": null,
+      "discounted_price_two_gram": null,
+      "price_eighth_ounce": null,
+      "discounted_price_eighth_ounce": null,
+      "price_quarter_ounce": null,
+      "discounted_price_quarter_ounce": null,
+      "price_half_ounce": null,
+      "discounted_price_half_ounce": null,
+      "price_ounce": null,
+      "discounted_price_ounce": null,
+      "price_half_gram": "35.0",
+      "discounted_price_half_gram": null,
+      "price_each": null,
+      "discounted_price_each": null,
+      "applicable_special_ids": [],
+      "objectID": "15115460",
+      "_highlightResult": {
+        "brand_subtype": {
+          "value": "Live Resin",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "brand": {
+          "value": "Humboldt Farms",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "description": {
+          "value": "We view the process of creating our premium live resin as a true art form. Cannabis is frozen immediately after harvest, preserving the cannabinoids before they degrade. The flavor and aroma of the final product is unmatched, as are the effects.\r\n\r\n",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name": {
+          "value": "Guava",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "root_types": [
+          {
+            "value": "extract",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "best_selling",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "extract:Live Resins",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ]
+      }
+    },
+    {
+      "max_cart_quantity": 8,
+      "allow_multiple_flower_count": true,
+      "store_notes": null,
+      "_geoloc": {
+        "lat": 34.037391,
+        "lng": -118.258393
+      },
+      "aggregate_rating": 0,
+      "allergens": [],
+      "amount": null,
+      "available_weights": [
+        "eighth ounce"
+      ],
+      "brand_subtype": "Premium Flower",
+      "brand": "Humboldt Farms",
+      "bucket_price": 30,
+      "business_licenses": [],
+      "cannabinoids": [],
+      "category": "hybrid",
+      "description": "No description available. If you have any info on this strain, drop us some knowledge at strains@iheartjane.com\r\n",
+      "dosage": null,
+      "effects": [],
+      "flavors": [],
+      "image_urls": [
+        "https://uploads.iheartjane.com/uploads/54b08bd6-d6cb-4999-a3f2-20949755043e.jpg"
+      ],
+      "ingredients": [],
+      "kind_subtype": "Premium Flower",
+      "kind": "flower",
+      "custom_product_type": "flower",
+      "name": "Peanut Butter Breath",
+      "percent_cbd": 0.03,
+      "percent_cbda": 0,
+      "percent_thc": 18,
+      "percent_thca": 0,
+      "percent_tac": 0,
+      "photos": [
+        {
+          "id": 4556450,
+          "position": 0,
+          "urls": {
+            "original": "https://uploads.iheartjane.com/uploads/54b08bd6-d6cb-4999-a3f2-20949755043e.jpg",
+            "small": "https://uploads.iheartjane.com/cdn-cgi/image/width=174,fit=scale-down,format=auto,metadata=none/uploads/54b08bd6-d6cb-4999-a3f2-20949755043e.jpg",
+            "medium": "https://uploads.iheartjane.com/cdn-cgi/image/width=327,fit=scale-down,format=auto,metadata=none/uploads/54b08bd6-d6cb-4999-a3f2-20949755043e.jpg",
+            "extraLarge": "https://uploads.iheartjane.com/cdn-cgi/image/width=1000,fit=scale-down,format=auto,metadata=none/uploads/54b08bd6-d6cb-4999-a3f2-20949755043e.jpg"
+          }
+        }
+      ],
+      "has_photos": true,
+      "has_thc_potency": true,
+      "product_id": 430028,
+      "product_percent_cbd": 0,
+      "product_percent_thc": 0,
+      "product_photos": [
+        {
+          "id": "https://product-assets.iheartjane.com/photos/3c/91/3c91790f-3896-494f-8c6f-d12b307f27e2.jpeg",
+          "position": 0,
+          "urls": {
+            "original": "https://product-assets.iheartjane.com/photos/3c/91/3c91790f-3896-494f-8c6f-d12b307f27e2.jpeg",
+            "small": "https://product-assets.iheartjane.com/cdn-cgi/image/width=174,fit=scale-down,format=auto,metadata=none/photos/3c/91/3c91790f-3896-494f-8c6f-d12b307f27e2.jpeg",
+            "medium": "https://product-assets.iheartjane.com/cdn-cgi/image/width=327,fit=scale-down,format=auto,metadata=none/photos/3c/91/3c91790f-3896-494f-8c6f-d12b307f27e2.jpeg",
+            "extraLarge": "https://product-assets.iheartjane.com/cdn-cgi/image/width=1000,fit=scale-down,format=auto,metadata=none/photos/3c/91/3c91790f-3896-494f-8c6f-d12b307f27e2.jpeg"
+          }
+        },
+        {
+          "id": "https://uploads.iheartjane.com/uploads/c718107c-bef1-4376-a956-5305e24f57fa.jpg",
+          "position": 1,
+          "urls": {
+            "original": "https://uploads.iheartjane.com/uploads/c718107c-bef1-4376-a956-5305e24f57fa.jpg",
+            "small": "https://uploads.iheartjane.com/cdn-cgi/image/width=174,fit=scale-down,format=auto,metadata=none/uploads/c718107c-bef1-4376-a956-5305e24f57fa.jpg",
+            "medium": "https://uploads.iheartjane.com/cdn-cgi/image/width=327,fit=scale-down,format=auto,metadata=none/uploads/c718107c-bef1-4376-a956-5305e24f57fa.jpg",
+            "extraLarge": "https://uploads.iheartjane.com/cdn-cgi/image/width=1000,fit=scale-down,format=auto,metadata=none/uploads/c718107c-bef1-4376-a956-5305e24f57fa.jpg"
+          }
+        }
+      ],
+      "review_count": 1,
+      "root_subtype": null,
+      "custom_product_subtype": null,
+      "sort_price": 8.47,
+      "special_amount": null,
+      "special_id": null,
+      "special_title": null,
+      "store_specific_product": false,
+      "store_types": [
+        "recreational"
+      ],
+      "terpenes": [],
+      "type": "hybrid",
+      "url_slug": "humboldt-farms-peanut-butter-breath",
+      "inventory_potencies": [
+        {
+          "price_id": "eighth_ounce",
+          "thc_potency": 18,
+          "cbd_potency": 0.03
+        }
+      ],
+      "operator_store_rank": null,
+      "photo_weights": [],
+      "feelings": [],
+      "activities": [],
+      "root_types": [
+        "flower",
+        "best_selling"
+      ],
+      "price_gram": null,
+      "discounted_price_gram": null,
+      "price_two_gram": null,
+      "discounted_price_two_gram": null,
+      "price_eighth_ounce": "30.0",
+      "discounted_price_eighth_ounce": null,
+      "price_quarter_ounce": null,
+      "discounted_price_quarter_ounce": null,
+      "price_half_ounce": null,
+      "discounted_price_half_ounce": null,
+      "price_ounce": null,
+      "discounted_price_ounce": null,
+      "price_half_gram": null,
+      "discounted_price_half_gram": null,
+      "price_each": null,
+      "discounted_price_each": null,
+      "applicable_special_ids": [],
+      "objectID": "15115227",
+      "_highlightResult": {
+        "brand_subtype": {
+          "value": "Premium Flower",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "brand": {
+          "value": "Humboldt Farms",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "category": {
+          "value": "hybrid",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "description": {
+          "value": "No description available. If you have any info on this strain, drop us some knowledge at strains@iheartjane.com\r\n",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name": {
+          "value": "Peanut Butter Breath",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "root_types": [
+          {
+            "value": "flower",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "best_selling",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ]
+      }
+    },
+    {
+      "max_cart_quantity": 20,
+      "allow_multiple_flower_count": false,
+      "store_notes": null,
+      "_geoloc": {
+        "lat": 34.037391,
+        "lng": -118.258393
+      },
+      "aggregate_rating": 4.8,
+      "allergens": [],
+      "amount": "20pk",
+      "available_weights": [],
+      "brand_subtype": "Camino Gummies",
+      "brand": "Kiva Confections",
+      "bucket_price": 20,
+      "business_licenses": [],
+      "cannabinoids": [],
+      "category": "sativa",
+      "description": "A physical road takes you to a physical place. Camino (“road” in Spanish) takes you to a state of mind. Get a taste of the Southwest and invigorate your senses. Kiva’s Pineapple Habanero Camino gummies pair energy-stimulating sativa terpenes with ripe pineapple and a touch of heat.\n--\nINGREDIENTS: Tapioca Syrup, Sugar, Gelatin, Malic Acid, Pineapple Flavor WONF, Citric Acid, Cannabis Extract, Fruit and Vegetable Juice for Color, Corn Starch, Coconut Oil, Carnauba Wax, Terpenes.",
+      "dosage": "100mg",
+      "effects": [],
+      "flavors": [],
+      "image_urls": [
+        "https://uploads.iheartjane.com/uploads/fff95819-6b97-4210-8fd6-087ede1ae6e7.jpg"
+      ],
+      "ingredients": [],
+      "kind_subtype": "Camino Gummies",
+      "kind": "edible",
+      "custom_product_type": "edible",
+      "name": "Pineapple Habanero - Uplifting [20pk] (100mg)",
+      "percent_cbd": 0,
+      "percent_cbda": 0,
+      "percent_thc": 0,
+      "percent_thca": 0,
+      "percent_tac": 0,
+      "photos": [
+        {
+          "id": 4407546,
+          "position": 0,
+          "urls": {
+            "original": "https://uploads.iheartjane.com/uploads/fff95819-6b97-4210-8fd6-087ede1ae6e7.jpg",
+            "small": "https://uploads.iheartjane.com/cdn-cgi/image/width=174,fit=scale-down,format=auto,metadata=none/uploads/fff95819-6b97-4210-8fd6-087ede1ae6e7.jpg",
+            "medium": "https://uploads.iheartjane.com/cdn-cgi/image/width=327,fit=scale-down,format=auto,metadata=none/uploads/fff95819-6b97-4210-8fd6-087ede1ae6e7.jpg",
+            "extraLarge": "https://uploads.iheartjane.com/cdn-cgi/image/width=1000,fit=scale-down,format=auto,metadata=none/uploads/fff95819-6b97-4210-8fd6-087ede1ae6e7.jpg"
+          }
+        }
+      ],
+      "has_photos": true,
+      "has_thc_potency": false,
+      "product_id": 80424,
+      "product_percent_cbd": 0,
+      "product_percent_thc": 0,
+      "product_photos": [
+        {
+          "id": "https://product-assets.iheartjane.com/photos/a2/11/a2114094-5c50-49e6-bc91-9aac73742338.jpeg",
+          "position": 0,
+          "urls": {
+            "original": "https://product-assets.iheartjane.com/photos/a2/11/a2114094-5c50-49e6-bc91-9aac73742338.jpeg",
+            "small": "https://product-assets.iheartjane.com/cdn-cgi/image/width=174,fit=scale-down,format=auto,metadata=none/photos/a2/11/a2114094-5c50-49e6-bc91-9aac73742338.jpeg",
+            "medium": "https://product-assets.iheartjane.com/cdn-cgi/image/width=327,fit=scale-down,format=auto,metadata=none/photos/a2/11/a2114094-5c50-49e6-bc91-9aac73742338.jpeg",
+            "extraLarge": "https://product-assets.iheartjane.com/cdn-cgi/image/width=1000,fit=scale-down,format=auto,metadata=none/photos/a2/11/a2114094-5c50-49e6-bc91-9aac73742338.jpeg"
+          }
+        }
+      ],
+      "review_count": 268,
+      "root_subtype": "Candies",
+      "custom_product_subtype": "Candies",
+      "sort_price": 20,
+      "special_amount": null,
+      "special_id": null,
+      "special_title": null,
+      "store_specific_product": false,
+      "store_types": [
+        "recreational"
+      ],
+      "terpenes": [],
+      "type": "edible",
+      "url_slug": "kiva-confections-pineapple-habanero-uplifting-20pk-100mg",
+      "inventory_potencies": [
+        {
+          "price_id": "each",
+          "thc_potency": 0,
+          "cbd_potency": 0
+        }
+      ],
+      "operator_store_rank": null,
+      "photo_weights": [],
+      "feelings": [
+        "Relaxed",
+        "Blissful",
+        "Creative",
+        "Energetic"
+      ],
+      "activities": [
+        "Ease my mind",
+        "Stimulate my mind",
+        "Hang with friends",
+        "Get Active"
+      ],
+      "root_types": [
+        "edible",
+        "best_selling",
+        "edible:Candies"
+      ],
+      "price_gram": null,
+      "discounted_price_gram": null,
+      "price_two_gram": null,
+      "discounted_price_two_gram": null,
+      "price_eighth_ounce": null,
+      "discounted_price_eighth_ounce": null,
+      "price_quarter_ounce": null,
+      "discounted_price_quarter_ounce": null,
+      "price_half_ounce": null,
+      "discounted_price_half_ounce": null,
+      "price_ounce": null,
+      "discounted_price_ounce": null,
+      "price_half_gram": null,
+      "discounted_price_half_gram": null,
+      "price_each": "20.0",
+      "discounted_price_each": null,
+      "applicable_special_ids": [],
+      "objectID": "14698269",
+      "_highlightResult": {
+        "brand_subtype": {
+          "value": "Camino Gummies",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "brand": {
+          "value": "Kiva Confections",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "category": {
+          "value": "sativa",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "description": {
+          "value": "A physical road takes you to a physical place. Camino (“road” in Spanish) takes you to a state of mind. Get a taste of the Southwest and invigorate your senses. Kiva’s Pineapple Habanero Camino gummies pair energy-stimulating sativa terpenes with ripe pineapple and a touch of heat.\n--\nINGREDIENTS: Tapioca Syrup, Sugar, Gelatin, Malic Acid, Pineapple Flavor WONF, Citric Acid, Cannabis Extract, Fruit and Vegetable Juice for Color, Corn Starch, Coconut Oil, Carnauba Wax, Terpenes.",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name": {
+          "value": "Pineapple Habanero - Uplifting [20pk] (100mg)",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "root_types": [
+          {
+            "value": "edible",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "best_selling",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "edible:Candies",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ]
+      }
+    },
+    {
+      "max_cart_quantity": 9,
+      "allow_multiple_flower_count": false,
+      "store_notes": null,
+      "_geoloc": {
+        "lat": 34.037391,
+        "lng": -118.258393
+      },
+      "aggregate_rating": 4.6,
+      "allergens": [],
+      "amount": "20pk",
+      "available_weights": [],
+      "brand_subtype": "Camino Gummies",
+      "brand": "Kiva Confections",
+      "bucket_price": 20,
+      "business_licenses": [],
+      "cannabinoids": [],
+      "category": "sativa",
+      "description": "A physical road takes you to a physical place. Camino (“road” in Spanish) takes you to a state of mind. Find yourself on a blissful beach with Kiva’s Watermelon Lemonade Camino gummies. Let sativa and indica terpenes alongside juicy watermelon and tart citrus welcome you to your happy place.\r\n--\r\nIngredients: Tapioca Syrup, Sugar, Gelatin, Malic Acid, Watermelon Flavor WONF, Citric Acid, Cannabis Extract, Fruit and Vegetable Juice for Color, Corn Starch, Coconut Oil, Carnauba Wax, Lemon Flavor WONF, Terpenes",
+      "dosage": "100mg",
+      "effects": [],
+      "flavors": [],
+      "image_urls": [
+        "https://uploads.iheartjane.com/uploads/a5b592b3-af05-4287-b3ec-c17a0fb45d7e.jpg"
+      ],
+      "ingredients": [],
+      "kind_subtype": "Camino Gummies",
+      "kind": "edible",
+      "custom_product_type": "edible",
+      "name": "Watermelon Lemonade - Bliss [20pk] (100mg)",
+      "percent_cbd": 0,
+      "percent_cbda": 0,
+      "percent_thc": 0,
+      "percent_thca": 0,
+      "percent_tac": 0,
+      "photos": [
+        {
+          "id": 4407549,
+          "position": 0,
+          "urls": {
+            "original": "https://uploads.iheartjane.com/uploads/a5b592b3-af05-4287-b3ec-c17a0fb45d7e.jpg",
+            "small": "https://uploads.iheartjane.com/cdn-cgi/image/width=174,fit=scale-down,format=auto,metadata=none/uploads/a5b592b3-af05-4287-b3ec-c17a0fb45d7e.jpg",
+            "medium": "https://uploads.iheartjane.com/cdn-cgi/image/width=327,fit=scale-down,format=auto,metadata=none/uploads/a5b592b3-af05-4287-b3ec-c17a0fb45d7e.jpg",
+            "extraLarge": "https://uploads.iheartjane.com/cdn-cgi/image/width=1000,fit=scale-down,format=auto,metadata=none/uploads/a5b592b3-af05-4287-b3ec-c17a0fb45d7e.jpg"
+          }
+        }
+      ],
+      "has_photos": true,
+      "has_thc_potency": false,
+      "product_id": 134892,
+      "product_percent_cbd": 0,
+      "product_percent_thc": 0,
+      "product_photos": [
+        {
+          "id": "https://product-assets.iheartjane.com/photos/3b/09/3b09cf33-5347-43c4-a3dd-0e802cf59385.jpeg",
+          "position": 0,
+          "urls": {
+            "original": "https://product-assets.iheartjane.com/photos/3b/09/3b09cf33-5347-43c4-a3dd-0e802cf59385.jpeg",
+            "small": "https://product-assets.iheartjane.com/cdn-cgi/image/width=174,fit=scale-down,format=auto,metadata=none/photos/3b/09/3b09cf33-5347-43c4-a3dd-0e802cf59385.jpeg",
+            "medium": "https://product-assets.iheartjane.com/cdn-cgi/image/width=327,fit=scale-down,format=auto,metadata=none/photos/3b/09/3b09cf33-5347-43c4-a3dd-0e802cf59385.jpeg",
+            "extraLarge": "https://product-assets.iheartjane.com/cdn-cgi/image/width=1000,fit=scale-down,format=auto,metadata=none/photos/3b/09/3b09cf33-5347-43c4-a3dd-0e802cf59385.jpeg"
+          }
+        }
+      ],
+      "review_count": 256,
+      "root_subtype": "Candies",
+      "custom_product_subtype": "Candies",
+      "sort_price": 20,
+      "special_amount": null,
+      "special_id": null,
+      "special_title": null,
+      "store_specific_product": false,
+      "store_types": [
+        "recreational"
+      ],
+      "terpenes": [],
+      "type": "edible",
+      "url_slug": "kiva-confections-watermelon-lemonade-bliss-20pk-100mg",
+      "inventory_potencies": [
+        {
+          "price_id": "each",
+          "thc_potency": 0,
+          "cbd_potency": 0
+        }
+      ],
+      "operator_store_rank": null,
+      "photo_weights": [],
+      "feelings": [
+        "Relaxed",
+        "Blissful"
+      ],
+      "activities": [
+        "Ease my mind",
+        "Hang with friends",
+        "Get relief"
+      ],
+      "root_types": [
+        "edible",
+        "best_selling",
+        "edible:Candies"
+      ],
+      "price_gram": null,
+      "discounted_price_gram": null,
+      "price_two_gram": null,
+      "discounted_price_two_gram": null,
+      "price_eighth_ounce": null,
+      "discounted_price_eighth_ounce": null,
+      "price_quarter_ounce": null,
+      "discounted_price_quarter_ounce": null,
+      "price_half_ounce": null,
+      "discounted_price_half_ounce": null,
+      "price_ounce": null,
+      "discounted_price_ounce": null,
+      "price_half_gram": null,
+      "discounted_price_half_gram": null,
+      "price_each": "20.0",
+      "discounted_price_each": null,
+      "applicable_special_ids": [],
+      "objectID": "14698272",
+      "_highlightResult": {
+        "brand_subtype": {
+          "value": "Camino Gummies",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "brand": {
+          "value": "Kiva Confections",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "category": {
+          "value": "sativa",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "description": {
+          "value": "A physical road takes you to a physical place. Camino (“road” in Spanish) takes you to a state of mind. Find yourself on a blissful beach with Kiva’s Watermelon Lemonade Camino gummies. Let sativa and indica terpenes alongside juicy watermelon and tart citrus welcome you to your happy place.\r\n--\r\nIngredients: Tapioca Syrup, Sugar, Gelatin, Malic Acid, Watermelon Flavor WONF, Citric Acid, Cannabis Extract, Fruit and Vegetable Juice for Color, Corn Starch, Coconut Oil, Carnauba Wax, Lemon Flavor WONF, Terpenes",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name": {
+          "value": "Watermelon Lemonade - Bliss [20pk] (100mg)",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "root_types": [
+          {
+            "value": "edible",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "best_selling",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "edible:Candies",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ]
+      }
+    },
+    {
+      "max_cart_quantity": 8,
+      "allow_multiple_flower_count": false,
+      "store_notes": null,
+      "_geoloc": {
+        "lat": 34.037391,
+        "lng": -118.258393
+      },
+      "aggregate_rating": 0,
+      "allergens": [],
+      "amount": null,
+      "available_weights": [],
+      "brand_subtype": "Portable Vaporizer",
+      "brand": "Kurvana",
+      "bucket_price": 20,
+      "business_licenses": [],
+      "cannabinoids": [],
+      "category": null,
+      "description": "Our automatic batteries combine superior device materials with essential features optimized for Kurvana oil. With details such as a gold-plated positive pin, soft-touch coating and multiple color  options, Kurvana batteries go a step beyond the average by  combining luxury with efficiency.\n\nOptimized for Kurvana Cartridges but can be used on any 510 threaded cartridge.\n\nAvailable Finishes: Rose Gold, Pearl White, Dove Grey, Gold, Satin Graphite",
+      "dosage": null,
+      "effects": [],
+      "flavors": [],
+      "image_urls": [
+        "https://uploads.iheartjane.com/uploads/a13b07b4-972b-4915-9bbb-86fccd774865.jpg"
+      ],
+      "ingredients": [],
+      "kind_subtype": "Portable Vaporizer",
+      "kind": "gear",
+      "custom_product_type": "gear",
+      "name": "Kurvana Hardware - Satin Graphite Metallic",
+      "percent_cbd": 0,
+      "percent_cbda": 0,
+      "percent_thc": 0,
+      "percent_thca": 0,
+      "percent_tac": 0,
+      "photos": [
+        {
+          "id": 4409974,
+          "position": 0,
+          "urls": {
+            "original": "https://uploads.iheartjane.com/uploads/a13b07b4-972b-4915-9bbb-86fccd774865.jpg",
+            "small": "https://uploads.iheartjane.com/cdn-cgi/image/width=174,fit=scale-down,format=auto,metadata=none/uploads/a13b07b4-972b-4915-9bbb-86fccd774865.jpg",
+            "medium": "https://uploads.iheartjane.com/cdn-cgi/image/width=327,fit=scale-down,format=auto,metadata=none/uploads/a13b07b4-972b-4915-9bbb-86fccd774865.jpg",
+            "extraLarge": "https://uploads.iheartjane.com/cdn-cgi/image/width=1000,fit=scale-down,format=auto,metadata=none/uploads/a13b07b4-972b-4915-9bbb-86fccd774865.jpg"
+          }
+        }
+      ],
+      "has_photos": true,
+      "has_thc_potency": false,
+      "product_id": 631911,
+      "product_percent_cbd": 0,
+      "product_percent_thc": 0,
+      "product_photos": [
+        {
+          "id": "https://product-assets.iheartjane.com/photos/41/6b/416b4f3f-fbf8-4723-b3c9-654cacf3bd75.jpeg",
+          "position": 0,
+          "urls": {
+            "original": "https://product-assets.iheartjane.com/photos/41/6b/416b4f3f-fbf8-4723-b3c9-654cacf3bd75.jpeg",
+            "small": "https://product-assets.iheartjane.com/cdn-cgi/image/width=174,fit=scale-down,format=auto,metadata=none/photos/41/6b/416b4f3f-fbf8-4723-b3c9-654cacf3bd75.jpeg",
+            "medium": "https://product-assets.iheartjane.com/cdn-cgi/image/width=327,fit=scale-down,format=auto,metadata=none/photos/41/6b/416b4f3f-fbf8-4723-b3c9-654cacf3bd75.jpeg",
+            "extraLarge": "https://product-assets.iheartjane.com/cdn-cgi/image/width=1000,fit=scale-down,format=auto,metadata=none/photos/41/6b/416b4f3f-fbf8-4723-b3c9-654cacf3bd75.jpeg"
+          }
+        }
+      ],
+      "review_count": 0,
+      "root_subtype": "Vaporizers",
+      "custom_product_subtype": "Vaporizers",
+      "sort_price": 20,
+      "special_amount": null,
+      "special_id": null,
+      "special_title": null,
+      "store_specific_product": false,
+      "store_types": [
+        "recreational"
+      ],
+      "terpenes": [],
+      "type": "gear",
+      "url_slug": "kurvana-kurvana-hardware-satin-graphite-metallic",
+      "inventory_potencies": [
+        {
+          "price_id": "each",
+          "thc_potency": 0,
+          "cbd_potency": 0
+        }
+      ],
+      "operator_store_rank": null,
+      "photo_weights": [],
+      "feelings": [],
+      "activities": [],
+      "root_types": [
+        "gear",
+        "best_selling",
+        "gear:Vaporizers"
+      ],
+      "price_gram": null,
+      "discounted_price_gram": null,
+      "price_two_gram": null,
+      "discounted_price_two_gram": null,
+      "price_eighth_ounce": null,
+      "discounted_price_eighth_ounce": null,
+      "price_quarter_ounce": null,
+      "discounted_price_quarter_ounce": null,
+      "price_half_ounce": null,
+      "discounted_price_half_ounce": null,
+      "price_ounce": null,
+      "discounted_price_ounce": null,
+      "price_half_gram": null,
+      "discounted_price_half_gram": null,
+      "price_each": "20.0",
+      "discounted_price_each": null,
+      "applicable_special_ids": [],
+      "objectID": "14713643",
+      "_highlightResult": {
+        "brand_subtype": {
+          "value": "Portable Vaporizer",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "brand": {
+          "value": "Kurvana",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "description": {
+          "value": "Our automatic batteries combine superior device materials with essential features optimized for Kurvana oil. With details such as a gold-plated positive pin, soft-touch coating and multiple color  options, Kurvana batteries go a step beyond the average by  combining luxury with efficiency.\n\nOptimized for Kurvana Cartridges but can be used on any 510 threaded cartridge.\n\nAvailable Finishes: Rose Gold, Pearl White, Dove Grey, Gold, Satin Graphite",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name": {
+          "value": "Kurvana Hardware - Satin Graphite Metallic",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "root_types": [
+          {
+            "value": "gear",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "best_selling",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "gear:Vaporizers",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ]
+      }
+    },
+    {
+      "max_cart_quantity": 20,
+      "allow_multiple_flower_count": true,
+      "store_notes": null,
+      "_geoloc": {
+        "lat": 34.037391,
+        "lng": -118.258393
+      },
+      "aggregate_rating": 0,
+      "allergens": [],
+      "amount": null,
+      "available_weights": [
+        "eighth ounce"
+      ],
+      "brand_subtype": null,
+      "brand": "Moxie",
+      "bucket_price": 60,
+      "business_licenses": [],
+      "cannabinoids": [],
+      "category": "indica",
+      "description": "No description available. If you have any info on this strain, drop us some knowledge at strains@iheartjane.com",
+      "dosage": null,
+      "effects": [],
+      "flavors": [],
+      "image_urls": [
+        "https://uploads.iheartjane.com/uploads/1cf3b040-d887-4a81-aa48-9c026790e279.jpg"
+      ],
+      "ingredients": [],
+      "kind_subtype": null,
+      "kind": "flower",
+      "custom_product_type": "flower",
+      "name": "Ice Cream Cake",
+      "percent_cbd": 0,
+      "percent_cbda": 0,
+      "percent_thc": 0,
+      "percent_thca": 0,
+      "percent_tac": 0,
+      "photos": [
+        {
+          "id": 4423314,
+          "position": 0,
+          "urls": {
+            "original": "https://uploads.iheartjane.com/uploads/1cf3b040-d887-4a81-aa48-9c026790e279.jpg",
+            "small": "https://uploads.iheartjane.com/cdn-cgi/image/width=174,fit=scale-down,format=auto,metadata=none/uploads/1cf3b040-d887-4a81-aa48-9c026790e279.jpg",
+            "medium": "https://uploads.iheartjane.com/cdn-cgi/image/width=327,fit=scale-down,format=auto,metadata=none/uploads/1cf3b040-d887-4a81-aa48-9c026790e279.jpg",
+            "extraLarge": "https://uploads.iheartjane.com/cdn-cgi/image/width=1000,fit=scale-down,format=auto,metadata=none/uploads/1cf3b040-d887-4a81-aa48-9c026790e279.jpg"
+          }
+        }
+      ],
+      "has_photos": true,
+      "has_thc_potency": false,
+      "product_id": 358653,
+      "product_percent_cbd": 0,
+      "product_percent_thc": 0,
+      "product_photos": [],
+      "review_count": 1,
+      "root_subtype": null,
+      "custom_product_subtype": null,
+      "sort_price": 16.93,
+      "special_amount": null,
+      "special_id": null,
+      "special_title": null,
+      "store_specific_product": false,
+      "store_types": [
+        "recreational"
+      ],
+      "terpenes": [],
+      "type": "indica",
+      "url_slug": "moxie-ice-cream-cake",
+      "inventory_potencies": [
+        {
+          "price_id": "eighth_ounce",
+          "thc_potency": 0,
+          "cbd_potency": 0
+        }
+      ],
+      "operator_store_rank": null,
+      "photo_weights": [],
+      "feelings": [],
+      "activities": [],
+      "root_types": [
+        "flower",
+        "best_selling"
+      ],
+      "price_gram": null,
+      "discounted_price_gram": null,
+      "price_two_gram": null,
+      "discounted_price_two_gram": null,
+      "price_eighth_ounce": "60.0",
+      "discounted_price_eighth_ounce": null,
+      "price_quarter_ounce": null,
+      "discounted_price_quarter_ounce": null,
+      "price_half_ounce": null,
+      "discounted_price_half_ounce": null,
+      "price_ounce": null,
+      "discounted_price_ounce": null,
+      "price_half_gram": null,
+      "discounted_price_half_gram": null,
+      "price_each": null,
+      "discounted_price_each": null,
+      "applicable_special_ids": [],
+      "objectID": "14760430",
+      "_highlightResult": {
+        "brand": {
+          "value": "Moxie",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "category": {
+          "value": "indica",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "description": {
+          "value": "No description available. If you have any info on this strain, drop us some knowledge at strains@iheartjane.com",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name": {
+          "value": "Ice Cream Cake",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "root_types": [
+          {
+            "value": "flower",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "best_selling",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ]
+      }
+    },
+    {
+      "max_cart_quantity": 19,
+      "allow_multiple_flower_count": false,
+      "store_notes": null,
+      "_geoloc": {
+        "lat": 34.037391,
+        "lng": -118.258393
+      },
+      "aggregate_rating": 0,
+      "allergens": [],
+      "amount": "3pk",
+      "available_weights": [],
+      "brand_subtype": "Packarillos - 3 Pack Mini Blunts",
+      "brand": "Packwoods",
+      "bucket_price": 28,
+      "business_licenses": [],
+      "cannabinoids": [],
+      "category": null,
+      "description": "A pack of three (3) .75g mini blunts (2.25g total) by Packwoods.",
+      "dosage": null,
+      "effects": [],
+      "flavors": [],
+      "image_urls": [
+        "https://uploads.iheartjane.com/uploads/72f67331-567f-4ebb-bf1d-48f1628df315.jpg"
+      ],
+      "ingredients": [],
+      "kind_subtype": "Packarillos - 3 Pack Mini Blunts",
+      "kind": "pre-roll",
+      "custom_product_type": "pre-roll",
+      "name": "Apple Mintz [3pk]",
+      "percent_cbd": 0,
+      "percent_cbda": 0,
+      "percent_thc": 0,
+      "percent_thca": 0,
+      "percent_tac": 0,
+      "photos": [
+        {
+          "id": 4468451,
+          "position": 0,
+          "urls": {
+            "original": "https://uploads.iheartjane.com/uploads/72f67331-567f-4ebb-bf1d-48f1628df315.jpg",
+            "small": "https://uploads.iheartjane.com/cdn-cgi/image/width=174,fit=scale-down,format=auto,metadata=none/uploads/72f67331-567f-4ebb-bf1d-48f1628df315.jpg",
+            "medium": "https://uploads.iheartjane.com/cdn-cgi/image/width=327,fit=scale-down,format=auto,metadata=none/uploads/72f67331-567f-4ebb-bf1d-48f1628df315.jpg",
+            "extraLarge": "https://uploads.iheartjane.com/cdn-cgi/image/width=1000,fit=scale-down,format=auto,metadata=none/uploads/72f67331-567f-4ebb-bf1d-48f1628df315.jpg"
+          }
+        }
+      ],
+      "has_photos": true,
+      "has_thc_potency": false,
+      "product_id": 642775,
+      "product_percent_cbd": 0,
+      "product_percent_thc": 0,
+      "product_photos": [
+        {
+          "id": "https://product-assets.iheartjane.com/photos/a1/11/a111ef4a-a1a4-4ca1-90ff-5c9ec02e6df1.jpeg",
+          "position": 0,
+          "urls": {
+            "original": "https://product-assets.iheartjane.com/photos/a1/11/a111ef4a-a1a4-4ca1-90ff-5c9ec02e6df1.jpeg",
+            "small": "https://product-assets.iheartjane.com/cdn-cgi/image/width=174,fit=scale-down,format=auto,metadata=none/photos/a1/11/a111ef4a-a1a4-4ca1-90ff-5c9ec02e6df1.jpeg",
+            "medium": "https://product-assets.iheartjane.com/cdn-cgi/image/width=327,fit=scale-down,format=auto,metadata=none/photos/a1/11/a111ef4a-a1a4-4ca1-90ff-5c9ec02e6df1.jpeg",
+            "extraLarge": "https://product-assets.iheartjane.com/cdn-cgi/image/width=1000,fit=scale-down,format=auto,metadata=none/photos/a1/11/a111ef4a-a1a4-4ca1-90ff-5c9ec02e6df1.jpeg"
+          }
+        }
+      ],
+      "review_count": 0,
+      "root_subtype": "Blunt Packs",
+      "custom_product_subtype": "Blunt Packs",
+      "sort_price": 28,
+      "special_amount": null,
+      "special_id": null,
+      "special_title": null,
+      "store_specific_product": false,
+      "store_types": [
+        "recreational"
+      ],
+      "terpenes": [],
+      "type": "pre-roll",
+      "url_slug": "packwoods-apple-mintz-3pk",
+      "inventory_potencies": [
+        {
+          "price_id": "each",
+          "thc_potency": 0,
+          "cbd_potency": 0
+        }
+      ],
+      "operator_store_rank": null,
+      "photo_weights": [],
+      "feelings": [],
+      "activities": [],
+      "root_types": [
+        "pre-roll",
+        "best_selling",
+        "pre-roll:Blunt Packs"
+      ],
+      "price_gram": null,
+      "discounted_price_gram": null,
+      "price_two_gram": null,
+      "discounted_price_two_gram": null,
+      "price_eighth_ounce": null,
+      "discounted_price_eighth_ounce": null,
+      "price_quarter_ounce": null,
+      "discounted_price_quarter_ounce": null,
+      "price_half_ounce": null,
+      "discounted_price_half_ounce": null,
+      "price_ounce": null,
+      "discounted_price_ounce": null,
+      "price_half_gram": null,
+      "discounted_price_half_gram": null,
+      "price_each": "28.0",
+      "discounted_price_each": null,
+      "applicable_special_ids": [],
+      "objectID": "14893090",
+      "_highlightResult": {
+        "brand_subtype": {
+          "value": "Packarillos - 3 Pack Mini Blunts",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "brand": {
+          "value": "Packwoods",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "description": {
+          "value": "A pack of three (3) .75g mini blunts (2.25g total) by Packwoods.",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name": {
+          "value": "Apple Mintz [3pk]",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "root_types": [
+          {
+            "value": "pre-roll",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "best_selling",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "pre-roll:Blunt Packs",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ]
+      }
+    },
+    {
+      "max_cart_quantity": 7,
+      "allow_multiple_flower_count": false,
+      "store_notes": null,
+      "_geoloc": {
+        "lat": 34.037391,
+        "lng": -118.258393
+      },
+      "aggregate_rating": 0,
+      "allergens": [],
+      "amount": "3.5g",
+      "available_weights": [
+        "half gram"
+      ],
+      "brand_subtype": "Moonrocks",
+      "brand": "STiCKS",
+      "bucket_price": 70,
+      "business_licenses": [],
+      "cannabinoids": [],
+      "category": null,
+      "description": "A strain specific extract.",
+      "dosage": null,
+      "effects": [],
+      "flavors": [],
+      "image_urls": [
+        "https://uploads.iheartjane.com/uploads/1ee86fcf-31b1-4452-aafc-0100434406ae.jpg"
+      ],
+      "ingredients": [],
+      "kind_subtype": "Moonrocks",
+      "kind": "extract",
+      "custom_product_type": "extract",
+      "name": "Cherry Pie Kush [3.5g]",
+      "percent_cbd": 0.08,
+      "percent_cbda": 0,
+      "percent_thc": 49.02,
+      "percent_thca": 0,
+      "percent_tac": 0,
+      "photos": [
+        {
+          "id": 4586197,
+          "position": 0,
+          "urls": {
+            "original": "https://uploads.iheartjane.com/uploads/1ee86fcf-31b1-4452-aafc-0100434406ae.jpg",
+            "small": "https://uploads.iheartjane.com/cdn-cgi/image/width=174,fit=scale-down,format=auto,metadata=none/uploads/1ee86fcf-31b1-4452-aafc-0100434406ae.jpg",
+            "medium": "https://uploads.iheartjane.com/cdn-cgi/image/width=327,fit=scale-down,format=auto,metadata=none/uploads/1ee86fcf-31b1-4452-aafc-0100434406ae.jpg",
+            "extraLarge": "https://uploads.iheartjane.com/cdn-cgi/image/width=1000,fit=scale-down,format=auto,metadata=none/uploads/1ee86fcf-31b1-4452-aafc-0100434406ae.jpg"
+          }
+        }
+      ],
+      "has_photos": true,
+      "has_thc_potency": true,
+      "product_id": 715824,
+      "product_percent_cbd": 0,
+      "product_percent_thc": 0,
+      "product_photos": [],
+      "review_count": 0,
+      "root_subtype": "Moonrocks",
+      "custom_product_subtype": "Moonrocks",
+      "sort_price": 140,
+      "special_amount": null,
+      "special_id": null,
+      "special_title": null,
+      "store_specific_product": false,
+      "store_types": [
+        "recreational"
+      ],
+      "terpenes": [],
+      "type": "extract",
+      "url_slug": "sticks-cherry-pie-kush-3-5g",
+      "inventory_potencies": [
+        {
+          "price_id": "half_gram",
+          "thc_potency": 49.02,
+          "cbd_potency": 0.08
+        }
+      ],
+      "operator_store_rank": null,
+      "photo_weights": [],
+      "feelings": [],
+      "activities": [],
+      "root_types": [
+        "extract",
+        "best_selling",
+        "extract:Moonrocks"
+      ],
+      "price_gram": null,
+      "discounted_price_gram": null,
+      "price_two_gram": null,
+      "discounted_price_two_gram": null,
+      "price_eighth_ounce": null,
+      "discounted_price_eighth_ounce": null,
+      "price_quarter_ounce": null,
+      "discounted_price_quarter_ounce": null,
+      "price_half_ounce": null,
+      "discounted_price_half_ounce": null,
+      "price_ounce": null,
+      "discounted_price_ounce": null,
+      "price_half_gram": "70.0",
+      "discounted_price_half_gram": null,
+      "price_each": null,
+      "discounted_price_each": null,
+      "applicable_special_ids": [],
+      "objectID": "14714266",
+      "_highlightResult": {
+        "brand_subtype": {
+          "value": "Moonrocks",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "brand": {
+          "value": "STiCKS",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "description": {
+          "value": "A strain specific extract.",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name": {
+          "value": "Cherry Pie Kush [3.5g]",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "root_types": [
+          {
+            "value": "extract",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "best_selling",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "extract:Moonrocks",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ]
+      }
+    },
+    {
+      "max_cart_quantity": 20,
+      "allow_multiple_flower_count": true,
+      "store_notes": null,
+      "_geoloc": {
+        "lat": 34.037391,
+        "lng": -118.258393
+      },
+      "aggregate_rating": 0,
+      "allergens": [],
+      "amount": null,
+      "available_weights": [
+        "eighth ounce"
+      ],
+      "brand_subtype": null,
+      "brand": "STiCKS",
+      "bucket_price": 15,
+      "business_licenses": [],
+      "cannabinoids": [],
+      "category": "hybrid",
+      "description": "No description available. If you have any info on this strain, drop us some knowledge at strains@iheartjane.com",
+      "dosage": null,
+      "effects": [],
+      "flavors": [],
+      "image_urls": [
+        "https://uploads.iheartjane.com/uploads/fecacd75-af51-4573-a4f2-3c810091938e.jpg"
+      ],
+      "ingredients": [],
+      "kind_subtype": null,
+      "kind": "flower",
+      "custom_product_type": "flower",
+      "name": "Green Crush",
+      "percent_cbd": 0.06,
+      "percent_cbda": 0,
+      "percent_thc": 26.32,
+      "percent_thca": 0,
+      "percent_tac": 0,
+      "photos": [
+        {
+          "id": 4592907,
+          "position": 0,
+          "urls": {
+            "original": "https://uploads.iheartjane.com/uploads/fecacd75-af51-4573-a4f2-3c810091938e.jpg",
+            "small": "https://uploads.iheartjane.com/cdn-cgi/image/width=174,fit=scale-down,format=auto,metadata=none/uploads/fecacd75-af51-4573-a4f2-3c810091938e.jpg",
+            "medium": "https://uploads.iheartjane.com/cdn-cgi/image/width=327,fit=scale-down,format=auto,metadata=none/uploads/fecacd75-af51-4573-a4f2-3c810091938e.jpg",
+            "extraLarge": "https://uploads.iheartjane.com/cdn-cgi/image/width=1000,fit=scale-down,format=auto,metadata=none/uploads/fecacd75-af51-4573-a4f2-3c810091938e.jpg"
+          }
+        }
+      ],
+      "has_photos": true,
+      "has_thc_potency": true,
+      "product_id": 687698,
+      "product_percent_cbd": 0,
+      "product_percent_thc": 0,
+      "product_photos": [],
+      "review_count": 0,
+      "root_subtype": null,
+      "custom_product_subtype": null,
+      "sort_price": 4.23,
+      "special_amount": null,
+      "special_id": null,
+      "special_title": null,
+      "store_specific_product": false,
+      "store_types": [
+        "recreational"
+      ],
+      "terpenes": [],
+      "type": "hybrid",
+      "url_slug": "sticks-green-crush",
+      "inventory_potencies": [
+        {
+          "price_id": "eighth_ounce",
+          "thc_potency": 26.32,
+          "cbd_potency": 0.06
+        }
+      ],
+      "operator_store_rank": null,
+      "photo_weights": [],
+      "feelings": [],
+      "activities": [],
+      "root_types": [
+        "flower",
+        "best_selling"
+      ],
+      "price_gram": null,
+      "discounted_price_gram": null,
+      "price_two_gram": null,
+      "discounted_price_two_gram": null,
+      "price_eighth_ounce": "15.0",
+      "discounted_price_eighth_ounce": null,
+      "price_quarter_ounce": null,
+      "discounted_price_quarter_ounce": null,
+      "price_half_ounce": null,
+      "discounted_price_half_ounce": null,
+      "price_ounce": null,
+      "discounted_price_ounce": null,
+      "price_half_gram": null,
+      "discounted_price_half_gram": null,
+      "price_each": null,
+      "discounted_price_each": null,
+      "applicable_special_ids": [],
+      "objectID": "14698354",
+      "_highlightResult": {
+        "brand": {
+          "value": "STiCKS",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "category": {
+          "value": "hybrid",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "description": {
+          "value": "No description available. If you have any info on this strain, drop us some knowledge at strains@iheartjane.com",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name": {
+          "value": "Green Crush",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "root_types": [
+          {
+            "value": "flower",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "best_selling",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ]
+      }
+    },
+    {
+      "max_cart_quantity": 20,
+      "allow_multiple_flower_count": true,
+      "store_notes": null,
+      "_geoloc": {
+        "lat": 34.037391,
+        "lng": -118.258393
+      },
+      "aggregate_rating": 0,
+      "allergens": [],
+      "amount": null,
+      "available_weights": [
+        "eighth ounce"
+      ],
+      "brand_subtype": null,
+      "brand": "STiCKS",
+      "bucket_price": 15,
+      "business_licenses": [],
+      "cannabinoids": [],
+      "category": "hybrid",
+      "description": "No description available. If you have any info on this strain, drop us some knowledge at strains@iheartjane.com",
+      "dosage": null,
+      "effects": [],
+      "flavors": [],
+      "image_urls": [
+        "https://uploads.iheartjane.com/uploads/244acea7-442a-44c8-bb05-ff596dd00c2d.jpg"
+      ],
+      "ingredients": [],
+      "kind_subtype": null,
+      "kind": "flower",
+      "custom_product_type": "flower",
+      "name": "Popsicle",
+      "percent_cbd": 0.07,
+      "percent_cbda": 0,
+      "percent_thc": 21.96,
+      "percent_thca": 0,
+      "percent_tac": 0,
+      "photos": [
+        {
+          "id": 4592908,
+          "position": 0,
+          "urls": {
+            "original": "https://uploads.iheartjane.com/uploads/244acea7-442a-44c8-bb05-ff596dd00c2d.jpg",
+            "small": "https://uploads.iheartjane.com/cdn-cgi/image/width=174,fit=scale-down,format=auto,metadata=none/uploads/244acea7-442a-44c8-bb05-ff596dd00c2d.jpg",
+            "medium": "https://uploads.iheartjane.com/cdn-cgi/image/width=327,fit=scale-down,format=auto,metadata=none/uploads/244acea7-442a-44c8-bb05-ff596dd00c2d.jpg",
+            "extraLarge": "https://uploads.iheartjane.com/cdn-cgi/image/width=1000,fit=scale-down,format=auto,metadata=none/uploads/244acea7-442a-44c8-bb05-ff596dd00c2d.jpg"
+          }
+        }
+      ],
+      "has_photos": true,
+      "has_thc_potency": true,
+      "product_id": 631689,
+      "product_percent_cbd": 0,
+      "product_percent_thc": 0,
+      "product_photos": [],
+      "review_count": 0,
+      "root_subtype": null,
+      "custom_product_subtype": null,
+      "sort_price": 4.23,
+      "special_amount": null,
+      "special_id": null,
+      "special_title": null,
+      "store_specific_product": false,
+      "store_types": [
+        "recreational"
+      ],
+      "terpenes": [],
+      "type": "hybrid",
+      "url_slug": "sticks-popsicle",
+      "inventory_potencies": [
+        {
+          "price_id": "eighth_ounce",
+          "thc_potency": 21.96,
+          "cbd_potency": 0.07
+        }
+      ],
+      "operator_store_rank": null,
+      "photo_weights": [],
+      "feelings": [],
+      "activities": [],
+      "root_types": [
+        "flower",
+        "best_selling"
+      ],
+      "price_gram": null,
+      "discounted_price_gram": null,
+      "price_two_gram": null,
+      "discounted_price_two_gram": null,
+      "price_eighth_ounce": "15.0",
+      "discounted_price_eighth_ounce": null,
+      "price_quarter_ounce": null,
+      "discounted_price_quarter_ounce": null,
+      "price_half_ounce": null,
+      "discounted_price_half_ounce": null,
+      "price_ounce": null,
+      "discounted_price_ounce": null,
+      "price_half_gram": null,
+      "discounted_price_half_gram": null,
+      "price_each": null,
+      "discounted_price_each": null,
+      "applicable_special_ids": [],
+      "objectID": "14698356",
+      "_highlightResult": {
+        "brand": {
+          "value": "STiCKS",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "category": {
+          "value": "hybrid",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "description": {
+          "value": "No description available. If you have any info on this strain, drop us some knowledge at strains@iheartjane.com",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name": {
+          "value": "Popsicle",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "root_types": [
+          {
+            "value": "flower",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "best_selling",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ]
+      }
+    },
+    {
+      "max_cart_quantity": 20,
+      "allow_multiple_flower_count": true,
+      "store_notes": null,
+      "_geoloc": {
+        "lat": 34.037391,
+        "lng": -118.258393
+      },
+      "aggregate_rating": 0,
+      "allergens": [],
+      "amount": null,
+      "available_weights": [
+        "eighth ounce"
+      ],
+      "brand_subtype": null,
+      "brand": "STiCKS",
+      "bucket_price": 15,
+      "business_licenses": [],
+      "cannabinoids": [],
+      "category": "hybrid",
+      "description": "No descripton available. If you have any info on this strain, drop us some knowledge at strains@iheartjane.com.",
+      "dosage": null,
+      "effects": [],
+      "flavors": [],
+      "image_urls": [
+        "https://uploads.iheartjane.com/uploads/25f203e0-8f3a-497a-934e-e1ed74dc28bc.jpg"
+      ],
+      "ingredients": [],
+      "kind_subtype": null,
+      "kind": "flower",
+      "custom_product_type": "flower",
+      "name": "Tiki Sunset",
+      "percent_cbd": 0.06,
+      "percent_cbda": 0,
+      "percent_thc": 26.32,
+      "percent_thca": 0,
+      "percent_tac": 0,
+      "photos": [
+        {
+          "id": 4592910,
+          "position": 0,
+          "urls": {
+            "original": "https://uploads.iheartjane.com/uploads/25f203e0-8f3a-497a-934e-e1ed74dc28bc.jpg",
+            "small": "https://uploads.iheartjane.com/cdn-cgi/image/width=174,fit=scale-down,format=auto,metadata=none/uploads/25f203e0-8f3a-497a-934e-e1ed74dc28bc.jpg",
+            "medium": "https://uploads.iheartjane.com/cdn-cgi/image/width=327,fit=scale-down,format=auto,metadata=none/uploads/25f203e0-8f3a-497a-934e-e1ed74dc28bc.jpg",
+            "extraLarge": "https://uploads.iheartjane.com/cdn-cgi/image/width=1000,fit=scale-down,format=auto,metadata=none/uploads/25f203e0-8f3a-497a-934e-e1ed74dc28bc.jpg"
+          }
+        }
+      ],
+      "has_photos": true,
+      "has_thc_potency": true,
+      "product_id": 723363,
+      "product_percent_cbd": 0,
+      "product_percent_thc": 0,
+      "product_photos": [],
+      "review_count": 0,
+      "root_subtype": null,
+      "custom_product_subtype": null,
+      "sort_price": 4.23,
+      "special_amount": null,
+      "special_id": null,
+      "special_title": null,
+      "store_specific_product": false,
+      "store_types": [
+        "recreational"
+      ],
+      "terpenes": [],
+      "type": "hybrid",
+      "url_slug": "sticks-tiki-sunset",
+      "inventory_potencies": [
+        {
+          "price_id": "eighth_ounce",
+          "thc_potency": 26.32,
+          "cbd_potency": 0.06
+        }
+      ],
+      "operator_store_rank": null,
+      "photo_weights": [],
+      "feelings": [],
+      "activities": [],
+      "root_types": [
+        "flower",
+        "best_selling"
+      ],
+      "price_gram": null,
+      "discounted_price_gram": null,
+      "price_two_gram": null,
+      "discounted_price_two_gram": null,
+      "price_eighth_ounce": "15.0",
+      "discounted_price_eighth_ounce": null,
+      "price_quarter_ounce": null,
+      "discounted_price_quarter_ounce": null,
+      "price_half_ounce": null,
+      "discounted_price_half_ounce": null,
+      "price_ounce": null,
+      "discounted_price_ounce": null,
+      "price_half_gram": null,
+      "discounted_price_half_gram": null,
+      "price_each": null,
+      "discounted_price_each": null,
+      "applicable_special_ids": [],
+      "objectID": "14698358",
+      "_highlightResult": {
+        "brand": {
+          "value": "STiCKS",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "category": {
+          "value": "hybrid",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "description": {
+          "value": "No descripton available. If you have any info on this strain, drop us some knowledge at strains@iheartjane.com.",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name": {
+          "value": "Tiki Sunset",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "root_types": [
+          {
+            "value": "flower",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "best_selling",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ]
+      }
+    },
+    {
+      "max_cart_quantity": 20,
+      "allow_multiple_flower_count": true,
+      "store_notes": null,
+      "_geoloc": {
+        "lat": 34.037391,
+        "lng": -118.258393
+      },
+      "aggregate_rating": 0,
+      "allergens": [],
+      "amount": null,
+      "available_weights": [
+        "eighth ounce"
+      ],
+      "brand_subtype": null,
+      "brand": "STiCKS",
+      "bucket_price": 15,
+      "business_licenses": [],
+      "cannabinoids": [],
+      "category": "hybrid",
+      "description": "No description available. If you have any info on this strain, drop us some knowledge at strains@iheartjane.com",
+      "dosage": null,
+      "effects": [],
+      "flavors": [],
+      "image_urls": [
+        "https://uploads.iheartjane.com/uploads/55ba9f7e-55b8-460f-b95f-bfc16b61f2d0.jpg"
+      ],
+      "ingredients": [],
+      "kind_subtype": null,
+      "kind": "flower",
+      "custom_product_type": "flower",
+      "name": "Turbo Jack",
+      "percent_cbd": 0.06,
+      "percent_cbda": 0,
+      "percent_thc": 26.32,
+      "percent_thca": 0,
+      "percent_tac": 0,
+      "photos": [
+        {
+          "id": 4586196,
+          "position": 0,
+          "urls": {
+            "original": "https://uploads.iheartjane.com/uploads/55ba9f7e-55b8-460f-b95f-bfc16b61f2d0.jpg",
+            "small": "https://uploads.iheartjane.com/cdn-cgi/image/width=174,fit=scale-down,format=auto,metadata=none/uploads/55ba9f7e-55b8-460f-b95f-bfc16b61f2d0.jpg",
+            "medium": "https://uploads.iheartjane.com/cdn-cgi/image/width=327,fit=scale-down,format=auto,metadata=none/uploads/55ba9f7e-55b8-460f-b95f-bfc16b61f2d0.jpg",
+            "extraLarge": "https://uploads.iheartjane.com/cdn-cgi/image/width=1000,fit=scale-down,format=auto,metadata=none/uploads/55ba9f7e-55b8-460f-b95f-bfc16b61f2d0.jpg"
+          }
+        }
+      ],
+      "has_photos": true,
+      "has_thc_potency": true,
+      "product_id": 816750,
+      "product_percent_cbd": 0,
+      "product_percent_thc": 0,
+      "product_photos": [],
+      "review_count": 0,
+      "root_subtype": null,
+      "custom_product_subtype": null,
+      "sort_price": 4.23,
+      "special_amount": null,
+      "special_id": null,
+      "special_title": null,
+      "store_specific_product": false,
+      "store_types": [
+        "recreational"
+      ],
+      "terpenes": [],
+      "type": "hybrid",
+      "url_slug": "sticks-turbo-jack",
+      "inventory_potencies": [
+        {
+          "price_id": "eighth_ounce",
+          "thc_potency": 26.32,
+          "cbd_potency": 0.06
+        }
+      ],
+      "operator_store_rank": null,
+      "photo_weights": [],
+      "feelings": [],
+      "activities": [],
+      "root_types": [
+        "flower",
+        "best_selling"
+      ],
+      "price_gram": null,
+      "discounted_price_gram": null,
+      "price_two_gram": null,
+      "discounted_price_two_gram": null,
+      "price_eighth_ounce": "15.0",
+      "discounted_price_eighth_ounce": null,
+      "price_quarter_ounce": null,
+      "discounted_price_quarter_ounce": null,
+      "price_half_ounce": null,
+      "discounted_price_half_ounce": null,
+      "price_ounce": null,
+      "discounted_price_ounce": null,
+      "price_half_gram": null,
+      "discounted_price_half_gram": null,
+      "price_each": null,
+      "discounted_price_each": null,
+      "applicable_special_ids": [],
+      "objectID": "14698359",
+      "_highlightResult": {
+        "brand": {
+          "value": "STiCKS",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "category": {
+          "value": "hybrid",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "description": {
+          "value": "No description available. If you have any info on this strain, drop us some knowledge at strains@iheartjane.com",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name": {
+          "value": "Turbo Jack",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "root_types": [
+          {
+            "value": "flower",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "best_selling",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ]
+      }
+    },
+    {
+      "max_cart_quantity": 2,
+      "allow_multiple_flower_count": false,
+      "store_notes": null,
+      "_geoloc": {
+        "lat": 34.037391,
+        "lng": -118.258393
+      },
+      "aggregate_rating": 4.7,
+      "allergens": [],
+      "amount": null,
+      "available_weights": [
+        "half gram"
+      ],
+      "brand_subtype": "STIIIZY Pod",
+      "brand": "STIIIZY",
+      "bucket_price": 25,
+      "business_licenses": [],
+      "cannabinoids": [],
+      "category": "hybrid",
+      "description": "This hybrid delivers a well-balanced mind and body high with a juicy burst of flavor.\r\n--\r\nTaste: Blue Raspberry, Juicy, Tangy\r\n--\r\nFeeling: Happy, Relaxing, Uplifting",
+      "dosage": null,
+      "effects": [],
+      "flavors": [],
+      "image_urls": [
+        "https://uploads.iheartjane.com/uploads/9be9eff9-3829-41ae-995c-bcfc82cd64e0.jpg"
+      ],
+      "ingredients": [],
+      "kind_subtype": "STIIIZY Pod",
+      "kind": "vape",
+      "custom_product_type": "vape",
+      "name": "Blue Burst",
+      "percent_cbd": 2.1,
+      "percent_cbda": 0,
+      "percent_thc": 85.7,
+      "percent_thca": 0,
+      "percent_tac": 0,
+      "photos": [
+        {
+          "id": 4407624,
+          "position": 0,
+          "urls": {
+            "original": "https://uploads.iheartjane.com/uploads/9be9eff9-3829-41ae-995c-bcfc82cd64e0.jpg",
+            "small": "https://uploads.iheartjane.com/cdn-cgi/image/width=174,fit=scale-down,format=auto,metadata=none/uploads/9be9eff9-3829-41ae-995c-bcfc82cd64e0.jpg",
+            "medium": "https://uploads.iheartjane.com/cdn-cgi/image/width=327,fit=scale-down,format=auto,metadata=none/uploads/9be9eff9-3829-41ae-995c-bcfc82cd64e0.jpg",
+            "extraLarge": "https://uploads.iheartjane.com/cdn-cgi/image/width=1000,fit=scale-down,format=auto,metadata=none/uploads/9be9eff9-3829-41ae-995c-bcfc82cd64e0.jpg"
+          }
+        }
+      ],
+      "has_photos": true,
+      "has_thc_potency": true,
+      "product_id": 179914,
+      "product_percent_cbd": 0,
+      "product_percent_thc": 0,
+      "product_photos": [
+        {
+          "id": "https://uploads.iheartjane.com/uploads/5ddf8625-adc1-4539-96e4-a8886dad9676.jpg",
+          "position": 0,
+          "urls": {
+            "original": "https://uploads.iheartjane.com/uploads/5ddf8625-adc1-4539-96e4-a8886dad9676.jpg",
+            "small": "https://uploads.iheartjane.com/cdn-cgi/image/width=174,fit=scale-down,format=auto,metadata=none/uploads/5ddf8625-adc1-4539-96e4-a8886dad9676.jpg",
+            "medium": "https://uploads.iheartjane.com/cdn-cgi/image/width=327,fit=scale-down,format=auto,metadata=none/uploads/5ddf8625-adc1-4539-96e4-a8886dad9676.jpg",
+            "extraLarge": "https://uploads.iheartjane.com/cdn-cgi/image/width=1000,fit=scale-down,format=auto,metadata=none/uploads/5ddf8625-adc1-4539-96e4-a8886dad9676.jpg"
+          }
+        }
+      ],
+      "review_count": 124,
+      "root_subtype": "Specialty Pods",
+      "custom_product_subtype": "Specialty Pods",
+      "sort_price": 50,
+      "special_amount": null,
+      "special_id": null,
+      "special_title": null,
+      "store_specific_product": false,
+      "store_types": [
+        "recreational"
+      ],
+      "terpenes": [],
+      "type": "vape",
+      "url_slug": "stiiizy-blue-burst",
+      "inventory_potencies": [
+        {
+          "price_id": "half_gram",
+          "thc_potency": 85.7,
+          "cbd_potency": 2.1
+        }
+      ],
+      "operator_store_rank": null,
+      "photo_weights": [],
+      "feelings": [
+        "Relaxed",
+        "Blissful"
+      ],
+      "activities": [
+        "Ease my mind",
+        "Hang with friends",
+        "Get relief"
+      ],
+      "root_types": [
+        "vape",
+        "best_selling",
+        "vape:Specialty Pods"
+      ],
+      "price_gram": null,
+      "discounted_price_gram": null,
+      "price_two_gram": null,
+      "discounted_price_two_gram": null,
+      "price_eighth_ounce": null,
+      "discounted_price_eighth_ounce": null,
+      "price_quarter_ounce": null,
+      "discounted_price_quarter_ounce": null,
+      "price_half_ounce": null,
+      "discounted_price_half_ounce": null,
+      "price_ounce": null,
+      "discounted_price_ounce": null,
+      "price_half_gram": "25.0",
+      "discounted_price_half_gram": null,
+      "price_each": null,
+      "discounted_price_each": null,
+      "applicable_special_ids": [],
+      "objectID": "14698360",
+      "_highlightResult": {
+        "brand_subtype": {
+          "value": "STIIIZY Pod",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "brand": {
+          "value": "STIIIZY",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "category": {
+          "value": "hybrid",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "description": {
+          "value": "This hybrid delivers a well-balanced mind and body high with a juicy burst of flavor.\r\n--\r\nTaste: Blue Raspberry, Juicy, Tangy\r\n--\r\nFeeling: Happy, Relaxing, Uplifting",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name": {
+          "value": "Blue Burst",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "root_types": [
+          {
+            "value": "vape",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "best_selling",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "vape:Specialty Pods",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ]
+      }
+    },
+    {
+      "max_cart_quantity": 13,
+      "allow_multiple_flower_count": false,
+      "store_notes": null,
+      "_geoloc": {
+        "lat": 34.037391,
+        "lng": -118.258393
+      },
+      "aggregate_rating": 4.7,
+      "allergens": [],
+      "amount": null,
+      "available_weights": [
+        "gram"
+      ],
+      "brand_subtype": "STIIIZY Pod",
+      "brand": "STIIIZY",
+      "bucket_price": 45,
+      "business_licenses": [],
+      "cannabinoids": [],
+      "category": "sativa",
+      "description": "A cross between Strawberry Field and Haze. Strawberry Cough brings a thoughtful and energetic high that is perfect for conversation, reading, or just being productive.\r\n--\r\nTaste: Sweet, Strawberry, Fruity\r\n--\r\nFeeling: Creative, Energizing, Euphoric",
+      "dosage": null,
+      "effects": [],
+      "flavors": [],
+      "image_urls": [
+        "https://uploads.iheartjane.com/uploads/5d41e753-b012-43c5-a957-ad32006cdf2e.jpg"
+      ],
+      "ingredients": [],
+      "kind_subtype": "STIIIZY Pod",
+      "kind": "vape",
+      "custom_product_type": "vape",
+      "name": "Strawberry Cough",
+      "percent_cbd": 0.2,
+      "percent_cbda": 0,
+      "percent_thc": 83.61,
+      "percent_thca": 0,
+      "percent_tac": 0,
+      "photos": [
+        {
+          "id": 4407662,
+          "position": 0,
+          "urls": {
+            "original": "https://uploads.iheartjane.com/uploads/5d41e753-b012-43c5-a957-ad32006cdf2e.jpg",
+            "small": "https://uploads.iheartjane.com/cdn-cgi/image/width=174,fit=scale-down,format=auto,metadata=none/uploads/5d41e753-b012-43c5-a957-ad32006cdf2e.jpg",
+            "medium": "https://uploads.iheartjane.com/cdn-cgi/image/width=327,fit=scale-down,format=auto,metadata=none/uploads/5d41e753-b012-43c5-a957-ad32006cdf2e.jpg",
+            "extraLarge": "https://uploads.iheartjane.com/cdn-cgi/image/width=1000,fit=scale-down,format=auto,metadata=none/uploads/5d41e753-b012-43c5-a957-ad32006cdf2e.jpg"
+          }
+        }
+      ],
+      "has_photos": true,
+      "has_thc_potency": true,
+      "product_id": 28801,
+      "product_percent_cbd": 0,
+      "product_percent_thc": 0,
+      "product_photos": [
+        {
+          "id": "https://uploads.iheartjane.com/uploads/4eca4f15-d1c0-49b5-8add-d88521784f3c.jpg",
+          "position": 0,
+          "urls": {
+            "original": "https://uploads.iheartjane.com/uploads/4eca4f15-d1c0-49b5-8add-d88521784f3c.jpg",
+            "small": "https://uploads.iheartjane.com/cdn-cgi/image/width=174,fit=scale-down,format=auto,metadata=none/uploads/4eca4f15-d1c0-49b5-8add-d88521784f3c.jpg",
+            "medium": "https://uploads.iheartjane.com/cdn-cgi/image/width=327,fit=scale-down,format=auto,metadata=none/uploads/4eca4f15-d1c0-49b5-8add-d88521784f3c.jpg",
+            "extraLarge": "https://uploads.iheartjane.com/cdn-cgi/image/width=1000,fit=scale-down,format=auto,metadata=none/uploads/4eca4f15-d1c0-49b5-8add-d88521784f3c.jpg"
+          }
+        }
+      ],
+      "review_count": 168,
+      "root_subtype": "Specialty Pods",
+      "custom_product_subtype": "Specialty Pods",
+      "sort_price": 45,
+      "special_amount": null,
+      "special_id": null,
+      "special_title": null,
+      "store_specific_product": false,
+      "store_types": [
+        "recreational"
+      ],
+      "terpenes": [],
+      "type": "vape",
+      "url_slug": "stiiizy-strawberry-cough",
+      "inventory_potencies": [
+        {
+          "price_id": "half_gram",
+          "thc_potency": 83.64,
+          "cbd_potency": 0.2
+        },
+        {
+          "price_id": "gram",
+          "thc_potency": 83.61,
+          "cbd_potency": 0
+        }
+      ],
+      "operator_store_rank": null,
+      "photo_weights": [],
+      "feelings": [
+        "Creative",
+        "Energetic",
+        "Blissful",
+        "Relaxed"
+      ],
+      "activities": [
+        "Stimulate my mind",
+        "Get Active",
+        "Ease my mind",
+        "Get relief",
+        "Hang with friends"
+      ],
+      "root_types": [
+        "vape",
+        "best_selling",
+        "vape:Specialty Pods"
+      ],
+      "price_gram": "45.0",
+      "discounted_price_gram": null,
+      "price_two_gram": null,
+      "discounted_price_two_gram": null,
+      "price_eighth_ounce": null,
+      "discounted_price_eighth_ounce": null,
+      "price_quarter_ounce": null,
+      "discounted_price_quarter_ounce": null,
+      "price_half_ounce": null,
+      "discounted_price_half_ounce": null,
+      "price_ounce": null,
+      "discounted_price_ounce": null,
+      "price_half_gram": null,
+      "discounted_price_half_gram": null,
+      "price_each": null,
+      "discounted_price_each": null,
+      "applicable_special_ids": [],
+      "objectID": "14698369",
+      "_highlightResult": {
+        "brand_subtype": {
+          "value": "STIIIZY Pod",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "brand": {
+          "value": "STIIIZY",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "category": {
+          "value": "sativa",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "description": {
+          "value": "A cross between Strawberry Field and Haze. Strawberry Cough brings a thoughtful and energetic high that is perfect for conversation, reading, or just being productive.\r\n--\r\nTaste: Sweet, Strawberry, Fruity\r\n--\r\nFeeling: Creative, Energizing, Euphoric",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name": {
+          "value": "Strawberry Cough",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "root_types": [
+          {
+            "value": "vape",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "best_selling",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "vape:Specialty Pods",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ]
+      }
+    },
+    {
+      "max_cart_quantity": 10,
+      "allow_multiple_flower_count": false,
+      "store_notes": null,
+      "_geoloc": {
+        "lat": 34.037391,
+        "lng": -118.258393
+      },
+      "aggregate_rating": 4.7,
+      "allergens": [],
+      "amount": null,
+      "available_weights": [
+        "gram"
+      ],
+      "brand_subtype": "STIIIZY Pod",
+      "brand": "STIIIZY",
+      "bucket_price": 45,
+      "business_licenses": [],
+      "cannabinoids": [],
+      "category": "hybrid",
+      "description": "An indica-dominant hybrid strain born from parents Strawberry Bubblegum and Banana Kush. Strawnana provides a perfect balance of indica and sativa effects leaving you relaxed and focused.\r\n--\r\nTaste: Strawberry, Banana, Sweet\r\n--\r\nFeeling: Relaxing, Euphoric, Sleepy",
+      "dosage": null,
+      "effects": [],
+      "flavors": [],
+      "image_urls": [
+        "https://uploads.iheartjane.com/uploads/81abdcda-24cc-4fe6-b3b4-c2a9e0b78672.jpg"
+      ],
+      "ingredients": [],
+      "kind_subtype": "STIIIZY Pod",
+      "kind": "vape",
+      "custom_product_type": "vape",
+      "name": "Strawnana",
+      "percent_cbd": 0.23,
+      "percent_cbda": 0,
+      "percent_thc": 85.75,
+      "percent_thca": 0,
+      "percent_tac": 0,
+      "photos": [
+        {
+          "id": 4582780,
+          "position": 0,
+          "urls": {
+            "original": "https://uploads.iheartjane.com/uploads/81abdcda-24cc-4fe6-b3b4-c2a9e0b78672.jpg",
+            "small": "https://uploads.iheartjane.com/cdn-cgi/image/width=174,fit=scale-down,format=auto,metadata=none/uploads/81abdcda-24cc-4fe6-b3b4-c2a9e0b78672.jpg",
+            "medium": "https://uploads.iheartjane.com/cdn-cgi/image/width=327,fit=scale-down,format=auto,metadata=none/uploads/81abdcda-24cc-4fe6-b3b4-c2a9e0b78672.jpg",
+            "extraLarge": "https://uploads.iheartjane.com/cdn-cgi/image/width=1000,fit=scale-down,format=auto,metadata=none/uploads/81abdcda-24cc-4fe6-b3b4-c2a9e0b78672.jpg"
+          }
+        }
+      ],
+      "has_photos": true,
+      "has_thc_potency": true,
+      "product_id": 58508,
+      "product_percent_cbd": 0,
+      "product_percent_thc": 0,
+      "product_photos": [
+        {
+          "id": "https://uploads.iheartjane.com/uploads/9fecaf47-06b5-441a-a3a5-d8cbc416c697.jpg",
+          "position": 0,
+          "urls": {
+            "original": "https://uploads.iheartjane.com/uploads/9fecaf47-06b5-441a-a3a5-d8cbc416c697.jpg",
+            "small": "https://uploads.iheartjane.com/cdn-cgi/image/width=174,fit=scale-down,format=auto,metadata=none/uploads/9fecaf47-06b5-441a-a3a5-d8cbc416c697.jpg",
+            "medium": "https://uploads.iheartjane.com/cdn-cgi/image/width=327,fit=scale-down,format=auto,metadata=none/uploads/9fecaf47-06b5-441a-a3a5-d8cbc416c697.jpg",
+            "extraLarge": "https://uploads.iheartjane.com/cdn-cgi/image/width=1000,fit=scale-down,format=auto,metadata=none/uploads/9fecaf47-06b5-441a-a3a5-d8cbc416c697.jpg"
+          }
+        }
+      ],
+      "review_count": 102,
+      "root_subtype": "Specialty Pods",
+      "custom_product_subtype": "Specialty Pods",
+      "sort_price": 45,
+      "special_amount": null,
+      "special_id": null,
+      "special_title": null,
+      "store_specific_product": false,
+      "store_types": [
+        "recreational"
+      ],
+      "terpenes": [],
+      "type": "vape",
+      "url_slug": "stiiizy-strawnana",
+      "inventory_potencies": [
+        {
+          "price_id": "gram",
+          "thc_potency": 85.75,
+          "cbd_potency": 0.23
+        }
+      ],
+      "operator_store_rank": null,
+      "photo_weights": [],
+      "feelings": [
+        "Relaxed",
+        "Blissful"
+      ],
+      "activities": [
+        "Ease my mind",
+        "Stimulate my mind",
+        "Hang with friends",
+        "Get relief"
+      ],
+      "root_types": [
+        "vape",
+        "best_selling",
+        "vape:Specialty Pods"
+      ],
+      "price_gram": "45.0",
+      "discounted_price_gram": null,
+      "price_two_gram": null,
+      "discounted_price_two_gram": null,
+      "price_eighth_ounce": null,
+      "discounted_price_eighth_ounce": null,
+      "price_quarter_ounce": null,
+      "discounted_price_quarter_ounce": null,
+      "price_half_ounce": null,
+      "discounted_price_half_ounce": null,
+      "price_ounce": null,
+      "discounted_price_ounce": null,
+      "price_half_gram": null,
+      "discounted_price_half_gram": null,
+      "price_each": null,
+      "discounted_price_each": null,
+      "applicable_special_ids": [],
+      "objectID": "14698366",
+      "_highlightResult": {
+        "brand_subtype": {
+          "value": "STIIIZY Pod",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "brand": {
+          "value": "STIIIZY",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "category": {
+          "value": "hybrid",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "description": {
+          "value": "An indica-dominant hybrid strain born from parents Strawberry Bubblegum and Banana Kush. Strawnana provides a perfect balance of indica and sativa effects leaving you relaxed and focused.\r\n--\r\nTaste: Strawberry, Banana, Sweet\r\n--\r\nFeeling: Relaxing, Euphoric, Sleepy",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name": {
+          "value": "Strawnana",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "root_types": [
+          {
+            "value": "vape",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "best_selling",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "vape:Specialty Pods",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ]
+      }
+    },
+    {
+      "max_cart_quantity": 18,
+      "allow_multiple_flower_count": false,
+      "store_notes": null,
+      "_geoloc": {
+        "lat": 34.037391,
+        "lng": -118.258393
+      },
+      "aggregate_rating": 0,
+      "allergens": [],
+      "amount": "4pk",
+      "available_weights": [],
+      "brand_subtype": "4 Pack Pre Roll",
+      "brand": "The Flower Shop",
+      "bucket_price": 50,
+      "business_licenses": [],
+      "cannabinoids": [],
+      "category": null,
+      "description": "A strain specific pre roll by The Flower Shop.",
+      "dosage": null,
+      "effects": [],
+      "flavors": [],
+      "image_urls": [
+        "https://uploads.iheartjane.com/uploads/316728cd-6aba-481d-adc2-ee9c1d974fa2.jpg"
+      ],
+      "ingredients": [],
+      "kind_subtype": "4 Pack Pre Roll",
+      "kind": "pre-roll",
+      "custom_product_type": "pre-roll",
+      "name": "Purple Double Deja Vu [4pk]",
+      "percent_cbd": 0,
+      "percent_cbda": 0,
+      "percent_thc": 0,
+      "percent_thca": 0,
+      "percent_tac": 0,
+      "photos": [
+        {
+          "id": 4469485,
+          "position": 0,
+          "urls": {
+            "original": "https://uploads.iheartjane.com/uploads/316728cd-6aba-481d-adc2-ee9c1d974fa2.jpg",
+            "small": "https://uploads.iheartjane.com/cdn-cgi/image/width=174,fit=scale-down,format=auto,metadata=none/uploads/316728cd-6aba-481d-adc2-ee9c1d974fa2.jpg",
+            "medium": "https://uploads.iheartjane.com/cdn-cgi/image/width=327,fit=scale-down,format=auto,metadata=none/uploads/316728cd-6aba-481d-adc2-ee9c1d974fa2.jpg",
+            "extraLarge": "https://uploads.iheartjane.com/cdn-cgi/image/width=1000,fit=scale-down,format=auto,metadata=none/uploads/316728cd-6aba-481d-adc2-ee9c1d974fa2.jpg"
+          }
+        }
+      ],
+      "has_photos": true,
+      "has_thc_potency": false,
+      "product_id": 650344,
+      "product_percent_cbd": 0,
+      "product_percent_thc": 0,
+      "product_photos": [],
+      "review_count": 0,
+      "root_subtype": "Pre Roll Packs",
+      "custom_product_subtype": "Pre Roll Packs",
+      "sort_price": 50,
+      "special_amount": null,
+      "special_id": null,
+      "special_title": null,
+      "store_specific_product": false,
+      "store_types": [
+        "recreational"
+      ],
+      "terpenes": [],
+      "type": "pre-roll",
+      "url_slug": "the-flower-shop-purple-double-deja-vu-4pk",
+      "inventory_potencies": [
+        {
+          "price_id": "each",
+          "thc_potency": 0,
+          "cbd_potency": 0
+        }
+      ],
+      "operator_store_rank": null,
+      "photo_weights": [],
+      "feelings": [],
+      "activities": [],
+      "root_types": [
+        "pre-roll",
+        "best_selling",
+        "pre-roll:Pre Roll Packs"
+      ],
+      "price_gram": null,
+      "discounted_price_gram": null,
+      "price_two_gram": null,
+      "discounted_price_two_gram": null,
+      "price_eighth_ounce": null,
+      "discounted_price_eighth_ounce": null,
+      "price_quarter_ounce": null,
+      "discounted_price_quarter_ounce": null,
+      "price_half_ounce": null,
+      "discounted_price_half_ounce": null,
+      "price_ounce": null,
+      "discounted_price_ounce": null,
+      "price_half_gram": null,
+      "discounted_price_half_gram": null,
+      "price_each": "50.0",
+      "discounted_price_each": null,
+      "applicable_special_ids": [],
+      "objectID": "14895992",
+      "_highlightResult": {
+        "brand_subtype": {
+          "value": "4 Pack Pre Roll",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "brand": {
+          "value": "The Flower Shop",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "description": {
+          "value": "A strain specific pre roll by The Flower Shop.",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name": {
+          "value": "Purple Double Deja Vu [4pk]",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "root_types": [
+          {
+            "value": "pre-roll",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "best_selling",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "pre-roll:Pre Roll Packs",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ]
+      }
+    }
+  ]
+}
