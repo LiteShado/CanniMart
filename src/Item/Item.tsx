@@ -3,7 +3,7 @@ import React from "react";
 
 import { CartItemType } from "../App";
 
-import { Wrapper } from "./Item.styles";
+import { Wrapper } from "./Styles";
 
 type Props = {
   item: CartItemType;

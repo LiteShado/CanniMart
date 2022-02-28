@@ -91,7 +91,7 @@ const App = () => {
     <Wrapper>
       <Drawer anchor="right" open={cartOpen} onClose={() => setCartOpen(false)}>
         <Cart
-          cartItem={cartItem}
+          cartItems={cartItem}
           addToCart={addToCart}
           removeFromCart={removeFromCart}
         />
