@@ -1,5 +1,5 @@
 import "./App.css";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import { useQuery } from "react-query";
 import { LinearProgress } from "@material-ui/core";
 import Badge from "@material-ui/core/Badge";
@@ -8,7 +8,6 @@ import AddShoppingCartIcon from "@material-ui/icons/AddShoppingCart";
 import Grid from "@material-ui/core/Grid";
 import Item from "./Item/Item";
 import Cart from "./Cart/Cart";
-import AddShoppingCart from "@material-ui/icons/AddShoppingCart";
 
 import { Wrapper, StyledButton } from "./Styles";
 
