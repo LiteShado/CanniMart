@@ -25,19 +25,29 @@ export type CartItemType = {
 
 export type Word = {
   search: string;
+  id: number;
+  category: string;
+  description: string;
+  image: string;
+  price: number;
+  title: string;
+  amount: number;
+
 };
 
 const getProducts = async (): Promise<CartItemType[]> =>
   await (await fetch("https://fakestoreapi.com/products")).json();
 
-// const filterProducts = async (): Promise<CartItemType[]> =>
-//   await (await fetch("https://fakestoreapi.com/products")).json();
+  ////useEffect goes here
 
 const App = () => {
-  const [text, setText] = React.useState("");
-  const [filteredData, setFilteredData] = React.useState([]);
+  // const [text, setText] = useState("");
 
-  const [searchWord, setSearchWord] = useState("");
+  const [text, setText] = useState([] as Word[]);
+
+  const [filteredData, setFilteredData] = useState([]);
+
+  // const [searchWord, setSearchWord] = useState("");
   const [cartOpen, setCartOpen] = useState(false);
 
   const [cartItem, setCartItem] = useState([] as CartItemType[]);
@@ -46,13 +56,8 @@ const App = () => {
     "products",
     getProducts
   );
-
-  const handleFilter = (event) => {
-    const searchWord = event.target.value;
-    const newFilter = data.filter((value) => {
-      return value.title.includes(searchWord);
-    });
-    setFilteredData(newFilter);
+  const handleFilter = (items: CartItemType[]) => {
+    return items.includes(text);
   };
 
   const getTotalItems = (items: CartItemType[]) =>
@@ -119,13 +124,16 @@ const App = () => {
           <AddShoppingCartIcon />
         </Badge>
       </StyledButton>
-      <SearchBar data={data} value={text} onChange={handleFilter} />
+      <SearchBar search =
+      onChange={handleFilter} />
       <Grid container spacing={3}>
-        {data?.map((item) => (
-          <Grid item key={item.id} xs={12} sm={4}>
-            <Item item={item} addToCart={addToCart} />
-          </Grid>
-        ))}
+        {data?.filter((data) =>
+          handleFilter(data).map((item) => (
+            <Grid item key={item.id} xs={12} sm={4}>
+              <Item item={item} addToCart={addToCart} />
+            </Grid>
+          ))
+        )}
       </Grid>
     </Wrapper>
   );
