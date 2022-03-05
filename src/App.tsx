@@ -8,8 +8,10 @@ import AddShoppingCartIcon from "@material-ui/icons/AddShoppingCart";
 import Grid from "@material-ui/core/Grid";
 import Item from "./Item/Item";
 import Cart from "./Cart/Cart";
+import SearchBar from "./Searchbar/SearchBar";
 
 import { Wrapper, StyledButton } from "./Styles";
+import { getByDisplayValue } from "@testing-library/react";
 
 export type CartItemType = {
   id: number;
@@ -21,10 +23,21 @@ export type CartItemType = {
   amount: number;
 };
 
+export type Word = {
+  search: string;
+};
+
 const getProducts = async (): Promise<CartItemType[]> =>
   await (await fetch("https://fakestoreapi.com/products")).json();
 
+// const filterProducts = async (): Promise<CartItemType[]> =>
+//   await (await fetch("https://fakestoreapi.com/products")).json();
+
 const App = () => {
+  const [text, setText] = React.useState("");
+  const [filteredData, setFilteredData] = React.useState([]);
+
+  const [searchWord, setSearchWord] = useState("");
   const [cartOpen, setCartOpen] = useState(false);
 
   const [cartItem, setCartItem] = useState([] as CartItemType[]);
@@ -34,7 +47,13 @@ const App = () => {
     getProducts
   );
 
-  console.log(data);
+  const handleFilter = (event) => {
+    const searchWord = event.target.value;
+    const newFilter = data.filter((value) => {
+      return value.title.includes(searchWord);
+    });
+    setFilteredData(newFilter);
+  };
 
   const getTotalItems = (items: CartItemType[]) =>
     items.reduce((ack: number, item) => ack + item.amount, 0);
@@ -100,6 +119,7 @@ const App = () => {
           <AddShoppingCartIcon />
         </Badge>
       </StyledButton>
+      <SearchBar data={data} value={text} onChange={handleFilter} />
       <Grid container spacing={3}>
         {data?.map((item) => (
           <Grid item key={item.id} xs={12} sm={4}>
